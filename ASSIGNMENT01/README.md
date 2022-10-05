@@ -31,6 +31,7 @@ The following rating scale can be used to evaluate the severity of usability iss
 | 2 | Minor usability problem: fixing this should be given low priority |
 | 3 | Major usability problem: important to fix, so should be given high priority |
 
+(Credit: Emily Dong)
 
 ### Heuristic Evaluation
 
@@ -192,4 +193,23 @@ Funding the Ocean website has an abundance of information, which can be hard to 
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 
+**Severity Rating: 3**
+
+- When encountering an error, the message was not helpful. It did not give any kind of indication on what went wrong, or how to fix the problem. 
+- Again, with the search bar, although it says one must be logged in, it still allows for a search, and does not indicate that there are no results due to this problem. When there are no results, it shows either "Ask a question" or "Contact", however when you click on "Ask a question", it takes you to a login page. This whole process would be very confusing and frustrating for a new user. 
+
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/114601961/194052369-396c4168-83d2-485f-b6b0-d5b8ed556135.png">
+
+#### 10. Help and Documentation
+
+**Severity Rating: 2**
+
+- There is a satisfactory amount of documentation on the groups feature, where it shows what a button will do on a little pop up, right when the user will need it. However there is no documentation on other features such as the events calendar or the organizations search page. 
+
+ <img width="313" alt="image" src="https://user-images.githubusercontent.com/114601961/194052883-2e31d511-e45c-45c7-9681-4485f216bdde.png">
+ 
+ 
+ ### Overall Assessment
+ 
+ As this website is clearly a work in progress, it has many usability issues that it can improve upon, especially in terms of visibility of system status, user control and freedom, aesthetic and minimalist design, and error recognition, diagnosis and recovery. Functionally, the website is struggling: elements move around when you click on different pages and there are buttons that cannot be clicked. The text is also not centered and placed oddly on the page in many circumstances, which can be visually confusing. Lastly, the website is lacking in accesibility, with inconsistent headers and the text being too small, there are many improvements to be made
 
