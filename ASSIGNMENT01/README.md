@@ -6,7 +6,7 @@
 
 The ocean is our most important resource that the world depends on to sustain life, however marine life is suffering due to problems such as chemical pollution, oil spills, plastic waste, and agriculture runoff. The majority of Americans are frustrated with our contribution to ocean pollution, however there is a lack of resources online that would connect people to organizations for ocean conservation. There are plenty of websites providing the user with educational resources such as ocean statistics, and lists of ways that an individual can help, it seems to stop at surface level information. My goal for the project this quarter is to help users find a wesbite that will not only provide them with educatinal resources, but allow them to take a further step into action by connecting them to organizations that align with their goals. 
 
-### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
+### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) 
 
 | Number | Heuristic | Description |
 |---|---|---|
