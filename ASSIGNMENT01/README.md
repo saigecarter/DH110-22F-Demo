@@ -123,8 +123,9 @@ The following rating scale can be used to evaluate the severity of usability iss
 <img width="269" alt="image" src="https://user-images.githubusercontent.com/114601961/194042077-857b68aa-af69-4d08-8dfd-05f0fd44ea0f.png">
 
 
-
 ### Overall Assessment
+
+Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual heirarchy. 
 
 
 
