@@ -104,7 +104,7 @@ The following rating scale can be used to evaluate the severity of usability iss
 
 #### 8. Aesthetic and Minimalist Design
 
-**Severity Rating: 2"
+**Severity Rating: 2**
 
 - Throughout most of the website, only the necessary information was available on the screen. However, the Funding Map page was slightly confusing. First, the Funding Map is only found once you click "Explore the Map". However due to the large eye-catching banner and the lack of contrast between the CTA button, the first thing I do every time I click on the page is scroll past it, and it always takes me longer to navigate back to my original goal destination. I think that if the actual button to go to the map were emphasized and not crowded by other elements, it would be easier for the user to navigate to it. 
 
@@ -112,9 +112,17 @@ The following rating scale can be used to evaluate the severity of usability iss
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 
+**Severity Rating: 1**
+
 - Generally, this website did not have issues with this heuristic. As touched on previously, when the user is filling out submission forms on the website and they make a mistake, right away the website will provide them with feedback letting them know that a form is required, or that they have not entered a valid email. Again, however, there is no feedback if the user does not enter a valid URL, and therefore fails to help the user recognize a possible error. 
 
 #### 10. Help and documentation
+
+- I think this site does a good job for this heuristic, specifically in the Funding Map. As this is more of a unique feature, the users might not be familiar with what certain tabs mean. When the user hovers over one of the tabs, there is a small documentation that appears. This is especially helpful because it shows up at the exact moment the user needs it to. 
+
+<img width="269" alt="image" src="https://user-images.githubusercontent.com/114601961/194042077-857b68aa-af69-4d08-8dfd-05f0fd44ea0f.png">
+
+
 
 ### Overall Assessment
 
