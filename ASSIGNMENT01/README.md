@@ -31,4 +31,66 @@ The following rating scale can be used to evaluate the severity of usability iss
 | 2 | Minor usability problem: fixing this should be given low priority |
 | 3 | Major usability problem: important to fix, so should be given high priority |
 
-Ratings are displayed in parentheses after each usability issue.
+
+### Heuristic Evaluation
+
+## Website 1: [Funding the Ocean ]([https://www.mayoclinic.org/](https://fundingtheocean.org/))
+
+#### 1. Visibility of System Status
+
+- I could not find problems on this website for the first heuristic throughout the website. When the mouse hovers over any button or clickable element, it greys out/turns green, guiding the user and demonstrating its response to their actions. After clicking on the options to narrow down a search, the button becomes green and it also shows which topic was selected next to "Showing results for:", successfully providing the user with necessary feedback.
+
+![image](https://user-images.githubusercontent.com/114601961/194026128-b75c6e10-16dd-4a22-b4da-67d2f457b055.png)
+
+#### 2. Match Between System and the Real World
+
+**Severity Rating: 2** 
+
+- This website has a lot of internal jargon that may be confusing for someone who is not involved in organizations or ocean conservation efforts. For example, not everyone would know what they would find clicking on "Affinity groups" or "Data and report repositories"
+- Similarly, in another part of the website, the Foundation Map, certain terms such as "bi/multilateral disembursement/aid" might be confusing for the user. Using more friendly language would be less overwhelming, however if some of the information demands domain-specific language, a short explanation/blurb could be of use.
+
+
+![image](https://user-images.githubusercontent.com/114601961/194027759-9fd569af-fb3b-4e01-be06-b64753161ad4.png) 
+![image](https://user-images.githubusercontent.com/114601961/194029581-6c6ba539-7630-4828-b4cc-1ced42a9fa30.png)
+
+
+#### 3. User Control and Freedom
+
+**Severity Rating: 2**
+
+- When clicking on "Contact", the first thing it does is open the default mail app, which may seem easier, but it does not consider edge cases. This is not helpful for all users that might prefer to use a different email or like in my case, do not use their default mail application at all. This caused a problem for me, since I was not logged in I couldn't even get access to their email after pressing the contact button.
+
+![image](https://user-images.githubusercontent.com/114601961/194030703-20a70fc6-9603-4ab3-a1e2-53524fac6181.png)
+
+- Another possible issue is that the user is not able to make changes or edit their submission in case they make an error.  
+
+![image](https://user-images.githubusercontent.com/114601961/194030333-8e89bb1c-0987-441f-b99f-7d8308f09acc.png)
+
+
+
+#### 4. Consistency and Standards
+
+
+#### 5. Error Prevention
+
+
+#### 6. Recognition Rather Than Recall
+
+
+#### 7. Flexibility and Efficiency of Use
+
+
+#### 8. Aesthetic and Minimalist Design
+
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+
+
+### Overall Assessment
+
+
+
+
+
+
+
