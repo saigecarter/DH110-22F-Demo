@@ -62,34 +62,61 @@ The following rating scale can be used to evaluate the severity of usability iss
 
 ![image](https://user-images.githubusercontent.com/114601961/194030703-20a70fc6-9603-4ab3-a1e2-53524fac6181.png)
 
-- Another possible issue is that the user is not able to make changes or edit their submission in case they make an error.  
+- Another possible issue is that in the submit form there is no cancel option, and the user is not able to make changes or edit their submission in case they make an error.  
 
 ![image](https://user-images.githubusercontent.com/114601961/194030333-8e89bb1c-0987-441f-b99f-7d8308f09acc.png)
 
 
-
 #### 4. Consistency and Standards
 
+**Severity Rating: 1**
+
+- There is a lack of consistency in the feedback the user gets when they hover over a clickable element. In most cases, it will grey out, however on the resources page specifically, it turns green. Additionally, the green color that is used to indicate this is also used for Headers and other elements such as buttons. This can cause confusion for the user, therefore the website should have colors remain different and consistent for CTAs, feedback, and headings, and make sure not to use it in the wrong cases.  
+
+<img width="281" alt="image" src="https://user-images.githubusercontent.com/114601961/194033700-40c34a33-399e-4aad-a2dc-c383149f9de2.png">
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/114601961/194033795-6ddc9f26-5efd-43ca-ab45-ef3a64aa7fbb.png">
 
 #### 5. Error Prevention
+
+**Severity Rating: 1**
+
+- There are a few places in the website where the user can submit forms. In most, the error prevention is satisfactory. If the user forgets to enter a required form, there is a message alerting them. When the user types in an invalid email, before they can finish filling out the form, there is a message that says "Please enter a valid email address", and it does not allow them to submit until these are fixed, preventing them from a mistake. However, it does not do the same for a URL, and would allow the user to submit an invalid URL. 
+
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/114601961/194036754-8bdd67b7-80f0-4849-9820-f3a2ced8c014.png">
 
 
 #### 6. Recognition Rather Than Recall
 
+**Severity Rating: 2**
+
+- For the Funding Map feature of the website, the website embeds a youtube tutorial on how to use the map. However, the heuristic requries that the user should be able to  navigate through the website based on recognition. By having the user rely on a tutorial, they are being forced to put more effort into learning a website, which may cause their motivation to use the website go down. On a positive note, on the Funding Map page, there are short blurbs when the user hovers over a feature that explain what they are about to click on, which I think increases the sites learnability without forcing them to remember things from a tutorial.
+
+<img width="779" alt="image" src="https://user-images.githubusercontent.com/114601961/194037098-5e3ee111-58fc-41be-93d7-a5fb7166c1cb.png">
+
 
 #### 7. Flexibility and Efficiency of Use
+
+- Although the website could be more user-friendly for a regular user, I believe it did a good job in allowing the more advanced users to tailor the content to their level. While the default search on the Funding map is more simple, there is also the option for an advanced search which would allow individuals with specialized knowledge on the topic are able to narrow down what they are looking for.
+
+<img width="1206" alt="image" src="https://user-images.githubusercontent.com/114601961/194038922-1ae9d402-83b2-4ba2-a8d7-c333a399e262.png">
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/114601961/194039010-dba9ba4e-07a9-4f43-8fca-24c8f353528e.png">
 
 
 #### 8. Aesthetic and Minimalist Design
 
+**Severity Rating: 2"
+
+- Throughout most of the website, only the necessary information was available on the screen. However, the Funding Map page was slightly confusing. First, the Funding Map is only found once you click "Explore the Map". However due to the large eye-catching banner and the lack of contrast between the CTA button, the first thing I do every time I click on the page is scroll past it, and it always takes me longer to navigate back to my original goal destination. I think that if the actual button to go to the map were emphasized and not crowded by other elements, it would be easier for the user to navigate to it. 
+
+<img width="1085" alt="image" src="https://user-images.githubusercontent.com/114601961/194039443-1b35989b-23d4-4445-8b38-fcad1a6950f8.png">
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 
+- Generally, this website did not have issues with this heuristic. As touched on previously, when the user is filling out submission forms on the website and they make a mistake, right away the website will provide them with feedback letting them know that a form is required, or that they have not entered a valid email. Again, however, there is no feedback if the user does not enter a valid URL, and therefore fails to help the user recognize a possible error. 
+
+#### 10. Help and documentation
 
 ### Overall Assessment
-
-
-
 
 
 
