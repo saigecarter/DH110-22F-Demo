@@ -128,5 +128,68 @@ The following rating scale can be used to evaluate the severity of usability iss
 Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual heirarchy. 
 
 
+## Website 2: Marine Watch International (https://marinewatchintl.force.com/main/s/events?language=en_US)
+
+#### 1. Visibility of System Status 
+
+**Severity Rating: 3**
+
+- On the calendar showing events, only the dates with events are highlighted in green, whereas the date for today is just slightly shaded grey, which is hard for the user to see. The green is much more eye catching, which indicated that was the date that I had selected, even though it wasnt. When I hovered over other dates, they also greyed out, but when I tried to click on them, nothing happened. There was no change in what the screen displayed--it just continued to show the dates for the 17th. The only way to select a date other than this was to click on "Today", and after it would display nothing because there are no events. However, it does not indicate this in any way. 
+
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/114601961/194046152-ba1c4c12-4708-4c27-800f-08aa717aac3f.png">
+
+#### 2. Match between System and Real World 
+
+**Severity Rating: 2**
+
+- "Groups" are mentioned in multiple places on the site, however this is not something that an average user is familiar with. As of now, only the creators are aware of what is meant by "Groups". All that is indicated is that it is something that the user can join, but there is no real explanation of their purpose or what they mean in this context. Simply throwing it in as a page may confuse the reader, language that indicates the function would be helpful.
+
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/114601961/194046444-0a64c6e8-5424-49ac-a609-c76d0bda9566.png">
+<img width="948" alt="image" src="https://user-images.githubusercontent.com/114601961/194046498-86e42a3f-1e80-46b4-8019-41d4e5484a83.png">
+
+#### 3. User control and freedom
+
+**Severity Rating: 3**
+
+- As mentioned previously, the calendar on the web does not allow the user to click on the dates that are not already highlighted, limiting the user.
+- Another issue is that you must be logged in to use the search bar. This feature does not make sense to me, as people are unlikely to sign up for this website without really understanding how to even use the website. This is going to cause many users to give up on the site and leave if they are unable to use one of the main (and only) features on the site immediately. 
+
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/114601961/194047716-95a3632c-69f7-4fb5-934b-29cb7c696f9d.png">
+
+#### 4. Consistency and standards 
+
+**Severity rating: 2**
+
+- Although there is very little on the website, it falls short of this heuristic. There is a lack of consistency on the navigation bar, as when you click on a different page, the elements on the bar actually move around. 
+- Another issue is the lack of standards for the text. As shown in the image, it seems like they used random font sizes and weights in order to emphasize certain information, but there is now a lack of visual heirarchy, which can be confusing for the user. I found that my eyes were going all over the place, rather than reading the information top to bottom as I usually would. 
+
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/114601961/194048011-e4b79707-3027-42d0-8764-df86786582c2.png">
+
+#### 5. Error Prevention 
+
+**Severity Rating: 2**
+
+- For the search bar, although it gives a warning saying: "(Must be logged in to use)", this text is found within the search bar where it also says "Search for Organizations & Discussions", making it hard to notice. When I went through it, I didn't notice it and attempted to use the search bar. Even though there is a warning, the site still allows the user to type in and make a search, and it just shows a page with "no results". This can be very confusing if a user does not know that they must be logged in, making it appear as if there is no information at all on the site. 
+
+#### 6. Recognition Rather than Recall 
+
+- Overall, since it is such a simple site with little information currently, and there are no features that are especially unique. The calendar feature for events is intuitive for users since this how most websites display their event information. 
+
+#### 7. Flexibility and efficiency of use 
+
+**Severity Rating: 2**
+
+- There are currently no ways for an expert user to increase their efficiency of use on the site all of the actions are the same as an inexperienced user, which may be more tedious for someone using the site regularly. The only difference is that the expert user will likely have an account, granting them access to the search feature. 
+
+#### 8. Aesthetic and Minimalist Design 
+
+**Severity Rating: 3**
+
+- On the home page, there should only include their mission/welcome statement and a CTA to register, since most of the site relies on the user being logged in. However, the home page also includes the option to click on the welcome tab, or the groups tag, a feature showing which groups the user is a part of, as well as a complete duplicate of the events page underneath it, even though there are entire pages dedicated to both "events" and "groups". There should only be the necessary information on the homepage, and the information needs to be organized better. There is no need to have two of the same events feature if there is already a page for it, and the feature that shows which groups the user in should be under the groups page. 
+
+<img width="1210" alt="image" src="https://user-images.githubusercontent.com/114601961/194051633-5cd69a6b-3416-46c8-9837-8b84c51ff19e.png">
+<img width="1016" alt="image" src="https://user-images.githubusercontent.com/114601961/194051724-01637f59-6744-4cd8-a490-9193ac28da3d.png">
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
 
 
