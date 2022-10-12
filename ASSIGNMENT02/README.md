@@ -3,8 +3,6 @@
 
 ### Introduction
 
-The UCLA Economics website is the primary source of information for classes, major requirements, resources, and research opportunities for economics majors studying at UCLA. It supplies information for the undergraduate, master, and Ph.D level. The user is able to search for available workshops, look into major requirements, and contact the counseling department through this website. 
-
 The Funding the Ocean website is used as a way to provide those involved in/interested in conservation efforts with information and resources. It provides access to a funding map of ocean conservation efforts, a database/library of case studies, affinity groups, news, and report repositories on ocean conservation, information about the SDG goals, and a place to share knowledge.
 
 After conducting a heuristic analysis on this website, several usability problems were apparent. 
