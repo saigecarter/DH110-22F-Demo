@@ -5,7 +5,6 @@
 
 The Funding the Ocean website is used as a way to provide those involved in/interested in conservation efforts with information and resources. It provides access to a funding map of ocean conservation efforts, a database/library of case studies, affinity groups, news, and report repositories on ocean conservation, information about the SDG goals, and a place to share knowledge.
 
-After conducting a heuristic analysis on this website, several usability problems were apparent. 
 Several usability issues with the site were found while conducting a heuristic analysis on the site:
 
 - First, I found that the website did not follow the Match Between System and the Real world, as it used a lot of internal jargon that might be confusing for an average user, especially in the funding map page and the resource center page. 
