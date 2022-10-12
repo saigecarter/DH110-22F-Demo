@@ -8,7 +8,7 @@ The Funding the Ocean website is used as a way to provide those involved in/inte
 Several usability issues with the site were found while conducting a heuristic analysis on the site:
 
 - First, I found that the website did not follow the Match Between System and the Real world, as it used a lot of internal jargon that might be confusing for an average user, especially in the funding map page and the resource center page. 
-- Second,the website also struggled with the recognition rather than recall heurstic, especially on the funding map. The feature was very confusing to use and there was an unfortunate learning curve for that page.. 
+- Second,the website also struggled with the Recognition Rather than Recall heurstic, especially on the funding map. The feature was very confusing to use and there was an unfortunate learning curve for that page.. 
 - The website also had problems with aesthetic and minimalist design. The large banners with eye-catching images and lack of contrast between them and the CTA buttons caused me to miss them/scroll past them often.
 
 
