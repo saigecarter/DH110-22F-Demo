@@ -20,7 +20,7 @@ Given these problems, I conducted a usability test to evaluate how well the user
 
 ## Methodology
 
-The usability test took place in the quiet kitchen of my apartment in Los Angeles, California. I used a Macbook laptop as a recording device, and used Zoom to record the test. The participant went through and signed the informed consent before the survey, completed pre- and post- test questionanaires, and attemped to perform three tasks on the site. The links below include the Google form used to faciliate and record responses in the test and a recording of the participant's facial expressions and the screen as they went through the site. This usability test is a pilot test.
+The usability test took place in the quiet kitchen of my apartment in Los Angeles, California. I used a Macbook laptop as a recording device, and used Zoom to record the test. The participant went through and signed the informed consent before the survey, completed pre- and post- test questionanaires, attemped to perform three tasks on the site, and filled out a demographics questionnaire (left out of recording for confidentiality). The links below include the Google form used to faciliate and record responses in the test and a recording of the participant's facial expressions and the screen as they went through the site. This usability test is a pilot test.
 
 ## UT Survey
 
