@@ -32,6 +32,10 @@ Where: could be done anywhere the user has access to the internet, but most like
 Why: Likely if the user has been recently thinking a lot about ocean pollution and feeling guilty or frustrated with this issue. This could be the result of recent news about startling ocean pollution statistics or a recent crisis that they have heard about, or social media, etc. 
 Under which conditions: They know they have the time/money to contribute to the cause and are willing to. 
 
+#### What would the users do to complete that activity?
+
+Utilize a search engine to find information about how they can get involved in ocean conservation.
+
 ### Observation Methods 
 
 Active Participant Observation for interview 
