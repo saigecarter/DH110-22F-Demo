@@ -7,8 +7,7 @@ BLurb about contextual inquiry or something
 ### Design Challenge
 
 #### What is the main activity your project would support for the users?
-My project aims to provide an accesible digital experience that empowers users who are looking to get involved in ocean conservation efforts through informational resources as well as ways to find organizations that align with their goals and interests. (Basically want to create a site that has all the basic shit about how you can help as well as organizations that they can actaully get involved with) It would be cool if somehow the site could separate the different kind of ways you can help, as well as help them find local organizations they could contribute to. For example a list of community based organizations near them!
-BASED ON THEIR MEANS - each situation is different. 
+My project aims to provide an accesible digital experience that empowers users who are looking to get involved in ocean conservation efforts through informational resources as well as ways to find organizations that align with their goals and interests.
 
 #### What is the basic need/goal involved for that activity?
 
