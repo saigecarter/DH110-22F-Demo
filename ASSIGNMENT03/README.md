@@ -51,6 +51,8 @@ The **recording** of the interview can be found [here](https://drive.google.com/
 
 The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1I2Ib41fbwaVbKEuHn1gWkvIJ7h0qOxYe1f03g-LM5tc/edit?usp=sharing)
 
+The **field notes** can be found [here](https://docs.google.com/document/d/1mX-WKKic2iMsyWSYn-8Eb6LppmCMc7LOZtYoRAbDGy0/edit?usp=sharing)
+
 ### Interesting insights from the interview 
 
 **1. Information on a social issue itself is not efficient to help one feel equipped to take action**
