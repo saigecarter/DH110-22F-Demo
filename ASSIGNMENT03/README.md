@@ -58,6 +58,7 @@ The **transcription** of the interview can be found [here](https://docs.google.c
 1. Information on a social issue itself is not enough for someone to feel equipped to take action 
 
 > (24:12) I feel like I am not necessarily equipped to deal with any of these on an individual level. Maybe like if I found an organization that like dealt with any of this stuff like that would be possible. But most of these targets are like very governmental level initiatives. Like it's about legislation and regulation and stuff, which like a normal person can't do anything about that.
+
 > (25:02) I would say it's accessible if your goal is to get information, but I think if someone's goal was to take action and to become involved in ocean sustainability, and that sort of, cause I don't really think this would be that helpful, because there are no specific individual actions or any like resources for people.
 
 ### Reflection 
