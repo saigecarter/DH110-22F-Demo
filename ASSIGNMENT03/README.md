@@ -1,6 +1,6 @@
 # DH110-22F-SC
 
-## Introducrion
+## Introduction
 
 ### Design Challenge
 
