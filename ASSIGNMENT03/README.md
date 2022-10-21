@@ -69,7 +69,7 @@ The **field notes** can be found [here](https://docs.google.com/document/d/1mX-W
 
 > (44:36) \[An ideal tool would have]  their reputation, their economics... (15:33) Like their financial impact, like how they spend their donations and like how much I think like your common measures like how much value they get out of every dollar donation they earn, like how much goes towards their, like, advertising costs, because a lot of charities like, have fun fundraisers that to get more money that they have to spend money on or like, how much they pay their executives and stuff.
 
-**3. Time commitment is an important metric used to determine what event one would participate in**
+**3. Time commitment is an important metric used to determine what event one would participate in, so displaying it is very helpful**
 
 > (44:49) I also think that's really cool that they have the time commitment kind of labeled. I don't see that that often. 
 
