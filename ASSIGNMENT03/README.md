@@ -37,9 +37,9 @@ The user would typically utilize a search engine to find information about how t
 
 ### Observation Methods 
 
-Active Participant Observation: During the interview, I interacted with the participant by asking them questions and recorded their answers. I learned more about the participant's background information. 
+**Active Participant Observation**: During the interview, I interacted with the participant by asking them questions and recorded their answers. I learned more about the participant's background information. 
 
-Overt-passive Participant Observation: During the activities, the participant was aware of my presence, and I was also the one to tell them what activities to perform. However, I was observing the participant's behaviors and was not actively participating in the activities.
+**Overt-passive Participant Observation**: During the activities, the participant was aware of my presence, and I was also the one to tell them what activities to perform. However, I was observing the participant's behaviors and was not actively participating in the activities.
 
 ### Interview Guide
 
@@ -49,14 +49,16 @@ The script can be found [here](https://docs.google.com/document/d/1sl_SXmtj1oWDT
 
 **2. User Data**
 
-The **recording** of the interview can be found [here]
+The **recording** of the interview can be found [here](https://drive.google.com/file/d/1ZQ1Iksd4hWuX1htIINS3fqbTNd9toS7e/view?usp=sharing)
 
-The **transcription** of the interview can be found [here]
+The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1I2Ib41fbwaVbKEuHn1gWkvIJ7h0qOxYe1f03g-LM5tc/edit?usp=sharing)
 
 ### Interesting insights from the interview 
 
-- what kind of stuff is helpful when looking for the right organizations 
+1. Information on a social issue itself is not enough for someone to feel equipped to take action 
 
+> (24:12) I feel like I am not necessarily equipped to deal with any of these on an individual level. Maybe like if I found an organization that like dealt with any of this stuff like that would be possible. But most of these targets are like very governmental level initiatives. Like it's about legislation and regulation and stuff, which like a normal person can't do anything about that.
+> (25:02) I would say it's accessible if your goal is to get information, but I think if someone's goal was to take action and to become involved in ocean sustainability, and that sort of, cause I don't really think this would be that helpful, because there are no specific individual actions or any like resources for people.
 
 ### Reflection 
 I learned alot in my experience of planning and conducting an interview. Before this activity, I was curious as to why learning so much about a particular user rather than how they interact with a product was necessary, but after completion, it was clear how much the participant's background and context related with their behaviors and answers during the activity. For example, I chose my participant based on the fact that she had been involved with a lot of volunteer work in the past, and I learned that she had discovered through experience what *kind* of information about organizations is important to her when choosing the right one. This gave me very valuable insight into what things people who are more likely to volunteer actually value. I also learned a lot about how I should prepare the interview and activity guide beforehand. One particular thing is that without realizing, I somewhat predicted or presumed how the participant might respond. For example, for the activity that asked them to "find out how you want to contribute to a cause", I think I was expecting them to look up different types of ways to contribute. However, they ended up searching for local volunteer opportunities, causing me to slightly panic, because I expected them to do that for the third activity! This taught me to make sure that in the future I am preparing materials without any preconvieved expectations in mind. Lastly, in terms of technical difficulties, I did not realize that there was a limit for time on the trancription app that I was using, so it 
