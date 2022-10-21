@@ -5,7 +5,7 @@
 ### Design Challenge
 
 #### What is the main activity your project would support for the users?
-My project aims to provide an accesible digital experience that empowers users who are looking to get involved in ocean conservation efforts through informational resources as well as ways to find organizations that align with their goals and interests. I hope to solve the issue of a lack of centralized information on local organizations that a novice user can get involved with.
+My project aims to provide an accesible digital experience that empowers users who are looking to make an impact in ocean conservation efforts through informational resources as well as ways to find organizations that align with their goals and interests. I hope to solve the issue of a lack of centralized information on local organizations that a novice user can get involved with.
 
 #### What is the basic need/goal involved for that activity?
 
