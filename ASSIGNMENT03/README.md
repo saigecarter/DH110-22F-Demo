@@ -45,15 +45,15 @@ The user would typically utilize a search engine to find information about how t
 
 **1. Contextual Inquiry Guide**
 
-The script can be found [here](https://docs.google.com/document/d/1sl_SXmtj1oWDTJg-c8oj4QIqj9_bOIzyEx2KmYNb46w/edit?usp=sharing)
+The script can be found [here](https://docs.google.com/document/d/1sl_SXmtj1oWDTJg-c8oj4QIqj9_bOIzyEx2KmYNb46w/edit?usp=sharing).
 
 **2. User Data**
 
-The **recording** of the interview can be found [here](https://drive.google.com/file/d/1ZQ1Iksd4hWuX1htIINS3fqbTNd9toS7e/view?usp=sharing)
+The **recording** of the interview can be found [here](https://drive.google.com/file/d/1ZQ1Iksd4hWuX1htIINS3fqbTNd9toS7e/view?usp=sharing).
 
-The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1I2Ib41fbwaVbKEuHn1gWkvIJ7h0qOxYe1f03g-LM5tc/edit?usp=sharing)
+The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1I2Ib41fbwaVbKEuHn1gWkvIJ7h0qOxYe1f03g-LM5tc/edit?usp=sharing).
 
-The **field notes** can be found [here](https://docs.google.com/document/d/1mX-WKKic2iMsyWSYn-8Eb6LppmCMc7LOZtYoRAbDGy0/edit?usp=sharing)
+The **field notes** can be found [here](https://docs.google.com/document/d/1mX-WKKic2iMsyWSYn-8Eb6LppmCMc7LOZtYoRAbDGy0/edit?usp=sharing).
 
 ### Interesting insights from the interview 
 
