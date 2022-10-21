@@ -1,8 +1,6 @@
 # DH110-22F-SC
 
-## Contextual Inquiry 
-
-BLurb about contextual inquiry or something 
+## Introducrion
 
 ### Design Challenge
 
