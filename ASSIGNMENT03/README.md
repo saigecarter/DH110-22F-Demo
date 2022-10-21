@@ -29,7 +29,7 @@ Where: This activity could be done anywhere the user has access to the internet,
 
 Why: Likely if the user has been recently thinking a lot about ocean pollution and feeling interested in or frustrated with this issue. This could be the result of recent news about startling ocean pollution statistics or a recent crisis that they have heard about, or alternative sources such as social media.
 
-Under which conditions: The user is interested enough in the issue and they know they have the time/money to contribute to the cause. 
+Conditions: The user is interested enough in the issue and they know they have the time/money to contribute to the cause. 
 
 #### What would the users do to complete that activity?
 
