@@ -26,7 +26,9 @@ Students or working professionals between the ages of 20-30. For the scope of th
 #### In which context (where, why, under which conditions) would the users do that activity?
 
 Where: This activity could be done anywhere the user has access to the internet, but most likely in their own home. This is likely not a priority, so whenever they have free time.
+
 Why: Likely if the user has been recently thinking a lot about ocean pollution and feeling interested in or frustrated with this issue. This could be the result of recent news about startling ocean pollution statistics or a recent crisis that they have heard about, or alternative sources such as social media.
+
 Under which conditions: The user is interested enough in the issue and they know they have the time/money to contribute to the cause. 
 
 #### What would the users do to complete that activity?
