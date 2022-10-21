@@ -59,13 +59,13 @@ The **transcription** of the interview can be found [here](https://docs.google.c
 
 > (25:02) I would say it's accessible if your goal is to get information, but I think if someone's goal was to take action and to become involved in ocean sustainability, and that sort of, cause I don't really think this would be that helpful, because there are no specific individual actions or any like resources for people.
 
-**2. Those who are interested/experienced in volunteer work care a lot about the "economics" of an organization **
+**2. Those who are interested/experienced in volunteer work care a lot about the "economics" of an organization**
 
 > (35:33)  I like the website Charity Navigator, it gives like ratings for different charities and like nonprofits that rate some on all sorts of stuff, but like how well they spend their money like the impact they have.
 
 > (44:36) \[An ideal tool would have]  their reputation, their economics... (15:33) Like their financial impact, like how they spend their donations and like how much I think like your common measures like how much value they get out of every dollar donation they earn, like how much goes towards their, like, advertising costs, because a lot of charities like, have fun fundraisers that to get more money that they have to spend money on or like, how much they pay their executives and stuff.
 
-**3. Time commitment is an important metric used to determine what event one would participate ni **
+**3. Time commitment is an important metric used to determine what event one would participate in**
 
 > (44:49) I also think that's really cool that they have the time commitment kind of labeled. I don't see that that often. 
 
