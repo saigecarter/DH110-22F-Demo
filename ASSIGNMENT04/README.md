@@ -5,7 +5,7 @@ UX storytelling is an important communication tool that helps designers keep in 
 ## Design Features
 Based on the user research, I am planning to implement 2 design features in the site:
 1. "Take action" page: Provides a list of either organizations or events that allows the user to filter by location, cause area, as well as time commitment for the events.
-2. Resources page - A page that provides educational information about which areas of ocean conservation the user could get involved in, SDG goals, and options for courses of action.
+2. Resources page: A page that provides educational information about which areas of ocean conservation the user could get involved in, SDG goals, and options for courses of action.
 
 ## Personas & Empathy Map
 
