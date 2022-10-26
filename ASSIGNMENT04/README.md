@@ -22,11 +22,17 @@ Based on the user research, I am planning to implement 2 design features in the 
 ## User Scenarios and Journey Maps
 
 ### Persona 1 Scenario
+**Why**
 
+Alice was born into the Generation Z, who has been constantly exposed to media that tells them that in the future, their world will be greatly impacted by the effects of environmental degredation. She has always been quite aware of the issue and makes individual choices and efforts to help, such as not using plastic straws, reducing her plastic use, recycling, etc. One day, she decides to go on Instagram and sees a startling video depicting tons of plastic waste piling up on a beach and animals trapped in plastic. She decides that singular choices and actions are not enough for her and that she wants to get involved through direct action. She goes to her computer and looks up ways to help ocean conservation online, however she becomes frustrated because she is only able to find general information about ways to help, and most of it is through individual choises--which she is already doing. Another frustration is that she keeps being shown large-scale organizations that do not seem accessible and she still does not know how she can directly help.
+
+Alice finds a website for ocean conservation that provides her with informational resources and a database of organizations to get involved with. At the home page, she sees the "Take Action" page and clicks on it. She sees that she can choose between a list of events or organizations, and since she is mostly interested in the kind of work she can get involved in, she opts to look at the events first. She sees that she can filter the results, so she sets the location to "Los Angeles" since that is where she currently resides, and she sets the time commitment to "Low", as she is a busy college student. She scrolls through the events and sees that there is a beach cleanup happening in Santa Monica next weekend. She clicks on the event to learn more about it and clicks on the name of the organization, which navigates her to information about it. She connects with the description of the organization and thinks that she would like to try it out, she also thinks the event would be a good match for her based on the description, location and date. She registers for the event and is now excited and hopeful for the start of her journey with ocean conservation.
 
 **Persona 1 Journey Map**
-
+![alice smith journey map](https://user-images.githubusercontent.com/114601961/198008017-8925f2c8-3356-4612-b32c-112d3dc72016.png)
 
 ### Persona 2 Scenario
+
+
 
 **Persona 2 Journey Map**
