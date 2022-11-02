@@ -12,6 +12,17 @@ Based on the user research, I created 2 personas that could represent two types 
 
 **Persona 1:** Alice Smith is a 19 year old college student majoring in psychology. As a Generation Z kid, she has constantly been exposed to media about how the environment is being negatively affected by human activities. She has always made an effort to make individual choices that help, such as reducing plastic use, but the more she sees about ocean pollution, the more she desires to take action. She wants to find volunteering opportunities to help fight ocean pollution through organized action. 
 
+**Persona 2:** Kevin Sato is a 26 year old software engineer based in San Francisco. Kevin misses his old days of being in environmentalist clubs in high school and college and still has passion for the issue. However, he has just settled into his career and is too busy to commit to hands-on volunteer work. However, he desires to find the right organizations that align with his interests and values that he can make donations to. 
+
+## Features
+
+1. **Volunteer opportunities** - provides a list of volunteer opportunities based on various details including location and cause area, and allows user to register for events.
+2. **Organizations** - provides a list of organizations based on details including location and cause area, and allows user to view more information about the organization. 
+3. **Resources page** - page that provides the user with information including pressing ocean issues, the SDG targets, and ways to help. 
+
+## Purpose
+
+Low-fidelity prototypes allow the designer to focus on the functionality of the site,  make early changes/improvements, and come up with alternative solutions based on testing the prototype with a user. This can all be done before the designer commits too much, so that more specific details about the design can be focused on later, after all of the most important functionality issues have been resolved. 
 
 ## Wireframes 
 
