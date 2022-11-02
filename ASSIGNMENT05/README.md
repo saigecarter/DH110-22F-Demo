@@ -35,19 +35,19 @@ Find wireframes in PDF form [here](https://github.com/saigecarter/DH110-22F-SC/f
 
 ## Wireflows
 
-**Task 1: Register for a volunteer event**
+#### **Task 1: Register for a volunteer event**
 
 ![image](https://user-images.githubusercontent.com/114601961/199466295-19a75d2b-b7f2-4f89-a18b-4adaf1dea18a.png)
 
 Please find the HD wireflow [here](https://whimsical.com/volunteer-opportunities-wireflow-78J6QPRk4o34fnk1xzqvWc)
 
-**Task 2: Find an organization**
+#### **Task 2: Find an organization**
 
 ![image](https://user-images.githubusercontent.com/114601961/199466053-b43a23f0-395d-4d3c-8918-0d456e36cc7e.png)
 
 Please find the HD wireflow [here](https://whimsical.com/organizations-wireflow-LDPWGPbjLczTAmkD69s9aX)
 
-**Task 3: Find Resources**
+#### **Task 3: Find Resources**
 
 ![image](https://user-images.githubusercontent.com/114601961/199465905-4b8f7fee-744f-4f41-83a0-7f5d5eed4768.png)
 
@@ -57,7 +57,7 @@ Please find the HD wireflow [here](https://whimsical.com/resource-wireflows-6rhJ
 
 Below is the documentation of the user testing out the lofi prototype:
 
-**Task 1: Register for a volunteer event** 
+#### **Task 1: Register for a volunteer event** 
 
 ![image](https://user-images.githubusercontent.com/114601961/199469832-e899adf7-e590-4af5-8917-2caa2bcf9830.png)
 
@@ -66,7 +66,7 @@ Please find the HD version [here](https://whimsical.com/volunteer-opportunities-
 <img src="https://user-images.githubusercontent.com/114601961/199485349-f4b399f3-ab1d-430f-bf65-31e5ceb02513.jpg" width="700" height="500">
 
 
-**Task 2: Find an organization**
+#### **Task 2: Find an organization**
 
 ![image](https://user-images.githubusercontent.com/114601961/199470038-838f309b-b98c-4725-b9a6-4cb4dafbb496.png)
 
@@ -75,7 +75,7 @@ Please find the HD version [here](https://whimsical.com/organizations-wireflow-t
 <img src="https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg" width="700" height="500">
 
 
-**Task 3: Find Resources**
+#### **Task 3: Find Resources**
 
 ![image](https://user-images.githubusercontent.com/114601961/199470343-2305da7c-7e85-4cb3-b176-597447497919.png)
 
