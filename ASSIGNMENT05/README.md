@@ -14,7 +14,7 @@ Based on the user research, I created 2 personas that could represent two types 
 
 > **Persona 2:** Kevin Sato is a 26 year old software engineer based in San Francisco. Kevin misses his old days of being in environmentalist clubs in high school and college and still has passion for the issue. However, he has just settled into his career and is too busy to commit to hands-on volunteer work. However, he desires to find the right organizations that align with his interests and values that he can make donations to. 
 
-## Features
+### Features
 
 1. **Volunteer opportunities** - provides a list of volunteer opportunities based on various details including location and cause area, and allows user to register for events.
 2. **Organizations** - provides a list of organizations based on details including location and cause area, and allows user to view more information about the organization. 
@@ -22,7 +22,7 @@ Based on the user research, I created 2 personas that could represent two types 
 
 > Note: Previously, there were two features, but I found while designing that it was better to split the single "Get involved" feature into the seperate "Volunteer opportunities" and "Organizations" features, as they more distinct than expected
 
-## Purpose
+### Purpose
 
 Low-fidelity prototypes allow the designer to focus on the functionality of the site,  make early changes/improvements, and come up with alternative solutions based on testing the prototype with a user. This can all be done before the designer commits too much, so that more specific details about the design can be focused on later, after all of the most important functionality issues have been resolved. 
 
@@ -62,6 +62,10 @@ Below is the documentation of the user testing out the lofi prototype:
 ![image](https://user-images.githubusercontent.com/114601961/199469832-e899adf7-e590-4af5-8917-2caa2bcf9830.png)
 
 Please find the HD version [here](https://whimsical.com/volunteer-opportunities-wireflow-test-CrfhUP6rbfWuYLtH2shmeb)
+
+
+![Participant completing volunteer opportunities testing](https://user-images.githubusercontent.com/114601961/199485349-f4b399f3-ab1d-430f-bf65-31e5ceb02513.jpg)
+
 
 **Task 2: Find an organization**
 
