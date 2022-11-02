@@ -16,8 +16,9 @@ Find wireframes in PDF form [here]([Uploading assignment 5 site wireframes.pdfâ€
 
 **Task 1: Register for a volunteer event**
 
-Please find the HD wireflow [here](https://whimsical.com/volunteer-opportunities-wireflow-78J6QPRk4o34fnk1xzqvWc)
 ![image](https://user-images.githubusercontent.com/114601961/199466295-19a75d2b-b7f2-4f89-a18b-4adaf1dea18a.png)
+
+Please find the HD wireflow [here](https://whimsical.com/volunteer-opportunities-wireflow-78J6QPRk4o34fnk1xzqvWc)
 
 **Task 2: Find an organization**
 
