@@ -10,7 +10,7 @@ Task 3: Find resources
 
 ![wireframes image](https://user-images.githubusercontent.com/114601961/199473642-af075c9d-abfd-4a1c-ba0d-9668dfa732e6.png)
 
-Find wireframes in PDF form [here][assignment 5 site wireframes.pdf](https://github.com/saigecarter/DH110-22F-SC/files/9919664/assignment.5.site.wireframes.pdf)
+Find wireframes in PDF form [here](https://github.com/saigecarter/DH110-22F-SC/files/9919664/assignment.5.site.wireframes.pdf)
 
 
 ## Wireflows
