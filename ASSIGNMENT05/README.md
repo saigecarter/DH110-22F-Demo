@@ -63,7 +63,7 @@ Below is the documentation of the user testing out the lofi prototype:
 
 Please find the HD version [here](https://whimsical.com/volunteer-opportunities-wireflow-test-CrfhUP6rbfWuYLtH2shmeb)
 
-![Participant completing volunteer opportunities testing](https://user-images.githubusercontent.com/114601961/199485349-f4b399f3-ab1d-430f-bf65-31e5ceb02513.jpg)
+<img src="https://user-images.githubusercontent.com/114601961/199485349-f4b399f3-ab1d-430f-bf65-31e5ceb02513.jpg" width="700" height="500">
 
 
 **Task 2: Find an organization**
@@ -72,9 +72,7 @@ Please find the HD version [here](https://whimsical.com/volunteer-opportunities-
 
 Please find the HD version [here](https://whimsical.com/organizations-wireflow-test-VRseBqpQSKXV2oeofRL9CN)
 
-![participant tesing organizations](https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg)
-
-<img src="https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg" width="1344" height="1008">
+<img src="https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg" width="700" height="500">
 
 
 **Task 3: Find Resources**
@@ -83,7 +81,7 @@ Please find the HD version [here](https://whimsical.com/organizations-wireflow-t
 
 Please find the HD version [here](https://whimsical.com/resource-wireflows-test-QxPmY7YBr4as5xcfcjhvv9)  
 
-
+<img src="https://user-images.githubusercontent.com/114601961/199487620-8e5d43ed-09d9-4474-9bff-a2adbf887b63.jpg" width="700" height="500">
 
 ## Reflection 
 
