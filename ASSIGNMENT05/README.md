@@ -16,4 +16,6 @@ Find wireframes in PDF form [here](https://github.com/saigecarter/DH110-22F-SC/f
 
 Task 3: Resources
 
+Please find the HD wireflows [here](https://whimsical.com/wireflows-6rhJ1vMWetnsGdu1gbB8w6)
+
 ![image](https://user-images.githubusercontent.com/114601961/199426194-68be221b-5209-4e54-95c3-0848c35df112.png)
