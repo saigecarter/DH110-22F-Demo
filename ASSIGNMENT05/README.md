@@ -1,4 +1,4 @@
-# DH110-22F-SC
+# Assignment 5: Low Fidelity Prototype
 
 ## Project Description 
 
