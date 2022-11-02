@@ -20,7 +20,7 @@ Based on the user research, I created 2 personas that could represent two types 
 2. **Organizations** - provides a list of organizations based on details including location and cause area, and allows user to view more information about the organization. 
 3. **Resources page** - page that provides the user with information including pressing ocean issues, the SDG targets, and ways to help. 
 
-> Note: Previously, there were two features, but I found while designing that it was better to split the "Get involved" feature into the seperate "Volunteer opportunities" and "Organizations" features, as they more distinct than expected
+> Note: Previously, there were two features, but I found while designing that it was better to split the single "Get involved" feature into the seperate "Volunteer opportunities" and "Organizations" features, as they more distinct than expected
 
 ## Purpose
 
