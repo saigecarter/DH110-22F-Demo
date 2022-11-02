@@ -1,10 +1,17 @@
 # DH110-22F-SC
 
-Task 1: Register for a volunteer event
+## Project Description 
 
-Task 2: Find an organization 
+### User research:
 
-Task 3: Find resources 
+My project aims to empower people who are interested in ocean conservation through informational resources as well as helping them take the next step to get involved through volunteering or connecting with an organization they may want to support. The target user for research is students or working professionals between the ages of 20-30 located within the United States (specifically coastal areas). The user research focuses on understanding what a user needs to feel equipped to start taking action, what information those interested in volunteer value when looking for an organiztion, and what encourages people to take action on an issue. 
+
+### User personas
+
+Based on the user research, I created 2 personas that could represent two types of users:
+
+**Persona 1:** Alice Smith is a 19 year old college student majoring in psychology. As a Generation Z kid, she has constantly been exposed to media about how the environment is being negatively affected by human activities. She has always made an effort to make individual choices that help, such as reducing plastic use, but the more she sees about ocean pollution, the more she desires to take action. She wants to find volunteering opportunities to help fight ocean pollution through organized action. 
+
 
 ## Wireframes 
 
