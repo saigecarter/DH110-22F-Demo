@@ -63,7 +63,6 @@ Below is the documentation of the user testing out the lofi prototype:
 
 Please find the HD version [here](https://whimsical.com/volunteer-opportunities-wireflow-test-CrfhUP6rbfWuYLtH2shmeb)
 
-
 ![Participant completing volunteer opportunities testing](https://user-images.githubusercontent.com/114601961/199485349-f4b399f3-ab1d-430f-bf65-31e5ceb02513.jpg)
 
 
@@ -73,11 +72,17 @@ Please find the HD version [here](https://whimsical.com/volunteer-opportunities-
 
 Please find the HD version [here](https://whimsical.com/organizations-wireflow-test-VRseBqpQSKXV2oeofRL9CN)
 
+![participant tesing organizations](https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg)
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg)" width="100" height="100">
+
 **Task 3: Find Resources**
 
 ![image](https://user-images.githubusercontent.com/114601961/199470343-2305da7c-7e85-4cb3-b176-597447497919.png)
 
 Please find the HD version [here](https://whimsical.com/resource-wireflows-test-QxPmY7YBr4as5xcfcjhvv9)  
+
+
 
 ## Reflection 
 
