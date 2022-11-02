@@ -74,7 +74,7 @@ Please find the HD version [here](https://whimsical.com/organizations-wireflow-t
 
 ![participant tesing organizations](https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg)
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg)" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/114601961/199486340-521fd94c-51d7-41fb-b70c-ddeee95a8499.jpg" width="100" height="100">
 
 **Task 3: Find Resources**
 
