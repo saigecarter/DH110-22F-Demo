@@ -29,7 +29,7 @@ The purpose of creating this interface design is to ensure that users can naviga
 
 ![page layout and 8 pt grid](https://user-images.githubusercontent.com/114601961/200874306-69bb0add-c720-472a-b537-daf66794a726.png)
 
-For the website layout, I used 12 columns with 100px margins to contain the content and 60px gutters. I used 6 rows with 180px margins and 80px gutters. Lastly, I also used an 8px grid in order to space out the smaller elements by multiples of 8.
+For the website layout, I used 12 columns with 100px margins to contain the content and 60px gutters. I used 6 rows with 180px margins and 80px gutters. Lastly, I also used an 8px grid in order to space out the smaller elements by multiples of 8. I chose this design mainly because I was aware this was common pracice and had used a 12 column 8pt system in the past before. I chose the 6 columns because this was the best way to fit the event cards,
 
 ### Typographic Variations
 
