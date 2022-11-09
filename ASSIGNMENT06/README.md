@@ -35,8 +35,7 @@ For the website layout, I used 12 columns with 100px margins to contain the cont
 
 For my website, I wanted to use a sans-serif font to increase readability, since my website would contain a lot of content, with the exception that Heading 1 may be a Serif font for a more eye-catching effect. Tested three different typography variations: Articulat CF, Montserrat, and Georgia + Sofia Pro.
 
-![image](https://user-images.githubusercontent.com/69706820/167878028-2f0d01ff-5cac-4eff-8912-672863541917.png)
-
+![image](https://user-images.githubusercontent.com/114601961/200879341-d9325ec9-dbda-4538-9d41-169d27eda17b.png)
 Ultimately, I landed on using Articulat CF, because I wanted the website to have a more mordern feel, as the target users would be Gen Z and Millenials, as well as due to the font's readability.
 ---
 
