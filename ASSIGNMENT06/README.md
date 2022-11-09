@@ -36,7 +36,9 @@ For the website layout, I used 12 columns with 100px margins to contain the cont
 For my website, I wanted to use a sans-serif font to increase readability, since my website would contain a lot of content, with the exception that Heading 1 may be a Serif font for a more eye-catching effect. Tested three different typography variations: Articulat CF, Montserrat, and Georgia + Sofia Pro.
 
 ![image](https://user-images.githubusercontent.com/114601961/200879341-d9325ec9-dbda-4538-9d41-169d27eda17b.png)
-Ultimately, I landed on using Articulat CF, because I wanted the website to have a more mordern feel, as the target users would be Gen Z and Millenials, as well as due to the font's readability.
+
+Ultimately, I landed on using Articulat CF, because I wanted the website to have a more mordern feel, as the target users would be Gen Z and Millenials, as well as due to the font's readability
+
 ---
 
 ### Shape Variations
@@ -49,7 +51,7 @@ I decided that I wanted rounded corners throughout my design, but had three diff
 
 ### Color Palettes
 
-For the different color palletes, I created a light and dark mode for my design. I chose shades of blue to be my main palletes because my theme has to do with ocean conservation, as well as because blue is known to be trustworthy and calming.
+For the different color palletes, I created a light and dark mode for my design. I chose various shades of blue for my color pallete because my theme has to do with ocean conservation. However, I also chose blue because it generally represents trustworthiness and reliability, which is very important for my site, as it provides users with informational resources as well as volunteer opportunities and organizations. As users are investing time and possibily money into these things, it is crucial they feel confident they are getting their information from a secure source. 
 
 ![image](https://user-images.githubusercontent.com/114601961/200878176-72455a66-98fd-4399-a5a5-a521821eb768.png)---
 
