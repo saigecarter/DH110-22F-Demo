@@ -48,6 +48,7 @@ I decided that I wanted rounded corners throughout my design, but had to choose 
 For the different color palletes, I created a light and dark mode for my design. I first decided on various shades of blue for my color pallete because my theme has to do with ocean conservation. However, I also chose blue because it generally evokes a feeling trustworthiness and reliability, which is very important for my site, as it provides users with informational resources as well as volunteer opportunities and organizations. As users are investing time and possibily money into these things, it is crucial they feel confident they are getting their information from a secure source. Lastly, I also chose blue because it provides a feeling of calmness--since the site is information heavy, I wanted to offset any feeling of being overwhelmed as much as possible. 
 
 ![image](https://user-images.githubusercontent.com/114601961/201456073-ddd1d9eb-a3af-4bda-93a8-a726b8124ec5.png)
+---
 
 ### Components
 
@@ -105,11 +106,15 @@ Lastly, I created a google sheets with 18 adjectives and asked the participant t
 
 ![image](https://user-images.githubusercontent.com/114601961/201457968-480b2876-e0c6-43c4-84bd-e3b5fb3d9442.png)
 
-> **Useful** because it was easy to nagivate for volunteer opportunities 
-> **Approachable** because people of any age would be able to navigate the site 
-> **Helpful** because it displayed specific volunteer opportunities on the page 
-> **Calm** because the consistent blue color palette made her feel at peace 
-> **Accessible**, reasoning along the same lines as approachable
+> **Useful** because it was easy to nagivate for volunteer opportunities.
+> 
+> **Approachable** because people of any age would be able to navigate the site. 
+> 
+> **Helpful** because it displayed specific volunteer opportunities on the page.
+> 
+> **Calm** because the consistent blue color palette made her feel at peace.
+> 
+> **Accessible**, reasoning along the same lines as approachable.
 
 ### Layout
 
@@ -126,5 +131,14 @@ However, my impression test participant stated that she would have liked to see 
 
 ![image](https://user-images.githubusercontent.com/114601961/201457211-25e20aa9-c82b-4d31-bfdf-197db683a85b.png)
 
+## Summary of why I made my design decisions
 
+**Typography:** As previously mentioned, I wanted to chose a sans-serif font for the site to increase readability as my site would be content-heavy, with the exception that the headings *may* be serif. I debated between three different variations: Articulat CF, Montserrat, and Georgia + Sofia Pro. Ultimately, I chose Articult CF because of its readbility and modern feel to cater to Gen Z and Millenial users.
+
+
+**Color Palette:**  I chose shades of blue to make up my color palette, the obvious reason being that it is a website based around ocean conservation volunteering, but also because blue represents trustworthiness, reliability, which is important as the user must be able to trust that the site is providing them with the right volunteer opportunities. Due to it being a lot of content, I also felt that the calming effect of blue would help offset and feelings of being overwhelmed. I also felt that the ability to use darker or lighter shades of blue would aid in making the website more accessible with higher contrasts. 
+
+**Layout:** I decided to go with a 12 column grid with a 300px margin because I have used that layout in the past, and it is standard. I let the Hero section bleed an extra 150px on both sides because Hero sections on websites tend to be wider than the actual content. 
+I chose a 12 column grid with a 100px margin based on this being a common standard as well as wanting to fit at least two event cards in a row. I played around with the gutter size and ultimately decided on 60px, mainly because I felt like it looked awkward to have the event cards and closer or further apart. 
+I first chose to have 6 rows, which would contain a 2x2 table of event cards on the page, with a 180px margin and a 80 px gutter, as I wanted the rows to be slightly further apart than columns. However, during impression testing, my participant stated that she would have liked to see more than 4 events on the page, which led me to change the 2x2 table of event cards to 3x2 so I could show 6 on the page. Due to this, I had to change the layout to having 8 rows rather than 6, but the gutter and margin remained the same. 
 
