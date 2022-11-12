@@ -15,8 +15,8 @@ My project aims to educate and empower those who are interested in ocean conserv
 The purpose of creating this interface design is to ensure that users can navigate the website and access components with ease, as well as to ensure that the site is accessible to those from all walks of life. Creating the design system allows the designer to re-use elements and ensures that the interface remains consistent throughout the website. 
 
 I created my entire design system using figma, and started with the lofi wireframe of the volunteer opportunities page:
-![lofi volunteer opportunities wireframe](https://user-images.githubusercontent.com/114601961/201459026-da7fc9aa-70ce-4625-9349-e45df370170f.png)
 
+<img src="https://user-images.githubusercontent.com/114601961/201459026-da7fc9aa-70ce-4625-9349-e45df370170f.png" width="300" height="700">
 
 ## Design Process
 
