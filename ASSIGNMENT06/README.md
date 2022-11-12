@@ -32,16 +32,14 @@ For my website, I wanted to use a sans-serif font to increase readability, since
 
 Ultimately, I landed on using Articulat CF because I wanted the website to have a more modern feel, as the target users would be Gen Z and Millenials. I also felt that the font was a great choice due its incredible readability.
 
-![image](https://user-images.githubusercontent.com/114601961/200879341-d9325ec9-dbda-4538-9d41-169d27eda17b.png)
-
+![image](https://user-images.githubusercontent.com/114601961/201458648-9a7c7de6-b533-4bab-8b67-f5f35b540a2f.png)
 ---
 
 ### Shape Variations
 
 I decided that I wanted rounded corners throughout my design, but had to choose between three different intensity levels of roundedness. I decided on using the *medium rounded* option. I wanted to keep the friendly, approachable and modern feel that rounded corners offered. However, I felt that having *too round* corners would cause the website too look less professional.
 
-![image](https://user-images.githubusercontent.com/114601961/201454461-7dab15d1-1fb3-49bb-a559-1e49f97848d6.png)
----
+![image](https://user-images.githubusercontent.com/114601961/201458628-72dfe2ca-7e5e-4afd-b785-e75b532010f9.png)---
 
 ### Color Palettes
 
@@ -102,7 +100,7 @@ I then led her to the prototype and asked her to navigate the screen and provide
 - Thinks that since its a dark blue color palette, it might not contrast enough with the dark background
 - Text and pictures are still clear
 
-Lastly, I created a google sheets with 18 adjectives and asked the participant to choose 5 cards that best matched her reactions to the site. 
+Lastly, I created a google sheets with 18 [adjectives](https://yale.app.box.com/s/z0m0vx7xluagv9a0v8uhzwhpxq9h3yum) and asked the participant to choose 5 cards that best matched her reactions to the site. 
 
 ![image](https://user-images.githubusercontent.com/114601961/201457968-480b2876-e0c6-43c4-84bd-e3b5fb3d9442.png)
 
