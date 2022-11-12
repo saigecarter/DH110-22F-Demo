@@ -6,8 +6,6 @@
 
 ## Description of Project
 
-My project aims to empower people who are interested in ocean conservation through informational resources as well as helping them take the next step to get involved through volunteering or connecting with an organization they may want to support. The target user for research is students or working professionals between the ages of 20-30 located within the United States (specifically coastal areas). 
-
 My project aims to educate and empower those who are interested in ocean conservation through informational resources and assisting them in taking the next step to get engaged by providing volunteer opportunities or connecting them with an organization they may wish to support. The target user is students or working professionals between the ages of 18-40 located within the United States. I decided to name the platform "Tides of Change", as this calls to organized action and encourages the user who wants to make an impact. 
 
 ### Purpose of Interface Design
@@ -16,7 +14,7 @@ The purpose of creating this interface design is to ensure that users can naviga
 
 I created my entire design system using figma, and started with the lofi wireframe of the volunteer opportunities page:
 
-<img src="https://user-images.githubusercontent.com/114601961/201459026-da7fc9aa-70ce-4625-9349-e45df370170f.png" width="300" height="700">
+<img src="https://user-images.githubusercontent.com/114601961/201459026-da7fc9aa-70ce-4625-9349-e45df370170f.png" width="378" height="520">
 
 ## Design Process
 
@@ -59,12 +57,12 @@ I created components for the buttons on the page, and determined padding and spa
 
 ![image](https://user-images.githubusercontent.com/114601961/201456221-3f85ecfc-247c-41f6-ba9f-fae92d50fc9a.png)
 
-## Accessibility + Contrast Check 📐
+## Accessibility + Contrast Check 
 Using a color contrast figma plugin, I checked the contrast between the main components and text of the website and found that they all passed WCAG guidelines.
 
 ![image](https://user-images.githubusercontent.com/114601961/201455883-4371d24e-3dc2-412a-bd58-57376288be8b.png)
 
-## Impression Testing 📝
+## Impression Testing 
 
 [Link to screen+audio recording](https://drive.google.com/file/d/1OXsXvZTfkXl2VHqf9sfUwlW9C-6J8qGt/view?usp=sharing)
 
