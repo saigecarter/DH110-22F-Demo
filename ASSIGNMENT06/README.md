@@ -60,6 +60,57 @@ Using a color contrast figma plugin, I checked the contrast between the main com
 
 ![image](https://user-images.githubusercontent.com/114601961/201455883-4371d24e-3dc2-412a-bd58-57376288be8b.png)
 
+## Impression Testing 📝
+
+[Link to screen+audio recording](https://drive.google.com/file/d/1OXsXvZTfkXl2VHqf9sfUwlW9C-6J8qGt/view?usp=sharing)
+
+### 5-second-test findings
+
+First, I did a [5-second test](https://www.nngroup.com/videos/5-second-usability-test/), which entailed showing her the screen for 5 seconds and asking for her first impression of the site.
+
+- Saw that it displayed volunteer opportunities (but wasn't sure what kind) 
+- Liked overall layout and color theme, thought it was cohesive
+- Text seemed easy to read  
+- Information organized in a way that seems easily navigable
+- Feel like she could navigate site successfully
+
+### Mini-usability test findings 
+
+I then led her to the prototype and asked her to navigate the screen and provide any feedback on the layout, typography, color palette, readability, and for any suggestions of what she might like to see on the page
+
+#### Layout/Function
+
+- Front page looks like it would be easy to navigate 
+- Could easily enter her preferences and find an opportunity she was interested in 
+- Organized neatly
+- Likes the time commitment feature
+
+#### Color Palette
+- Likes color palette
+
+#### Typography
+- Everything seems pretty readale
+- Text boxes seem easy to read 
+
+#### What she would like to see on this page
+- Would have liked to see more events options rather than just 4 on the page, suggested maybe 6 or 8
+
+#### Dark mode 
+- Doesn't make too much of a difference for her
+- Thinks that since the image displayed is darker, it might blend in with the background
+- Thinks that since its a dark blue color palette, it might not contrast enough with the dark background
+- Text and pictures are still clear
+
+Lastly, I created a google sheets with 18 adjectives and asked the participant to choose 5 cards that best matched her reactions to the site. 
+
+![image](https://user-images.githubusercontent.com/114601961/201457968-480b2876-e0c6-43c4-84bd-e3b5fb3d9442.png)
+
+> **Useful** because it was easy to nagivate for volunteer opportunities 
+> **Approachable** because people of any age would be able to navigate the site 
+> **Helpful** because it displayed specific volunteer opportunities on the page 
+> **Calm** because the consistent blue color palette made her feel at peace 
+> **Accessible**, reasoning along the same lines as approachable
+
 ### Layout
 
 #### Initial 
