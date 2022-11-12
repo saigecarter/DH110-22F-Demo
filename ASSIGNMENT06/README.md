@@ -49,11 +49,14 @@ For the different color palletes, I created a light and dark mode for my design.
 
 ![image](https://user-images.githubusercontent.com/114601961/201456073-ddd1d9eb-a3af-4bda-93a8-a726b8124ec5.png)
 
-#### Components
+### Components
 
-![image](https://user-images.githubusercontent.com/114601961/201456092-7395403d-954c-493e-9d52-4ca8d65c2e63.png)
+I created components for the buttons on the page, and determined padding and spacing between the elements in the buttons. I also created hover states so that the prototype could feel slightly more interactive for the user during the impression testing.
+
+![image](https://user-images.githubusercontent.com/114601961/201456221-3f85ecfc-247c-41f6-ba9f-fae92d50fc9a.png)
 
 ## Accessibility + Contrast Check 📐
+Using a color contrast figma plugin, I checked the contrast between the main components and text of the website and found that they all passed WCAG guidelines.
 
 ![image](https://user-images.githubusercontent.com/114601961/201455883-4371d24e-3dc2-412a-bd58-57376288be8b.png)
 
@@ -61,5 +64,17 @@ For the different color palletes, I created a light and dark mode for my design.
 
 ![page layout and 8 pt grid](https://user-images.githubusercontent.com/114601961/200874306-69bb0add-c720-472a-b537-daf66794a726.png)
 
-For the website layout, I used 12 columns with 100px margins to contain the content and 60px gutters. I used 6 rows with 180px margins and 80px gutters. Lastly, I also used an 8px grid in order to space out the smaller elements by multiples of 8. I chose this design mainly because I was aware this was common pracice and had used a 12 column 8pt system in the past before. I chose the 6 columns because this was the best way to fit the event cards,
+#### Initial 
+
+For the website layout, I *first* used 12 columns with 100px margins to contain the content and 60px gutters. I used 6 rows with 180px margins and 80px gutters. Lastly, I also used an 8px grid in order to space out the smaller elements by multiples of 8. I chose this design mainly because I was aware this was common pracice and had used a 12 column 8pt system in the past before.
+
+#### Second iteration
+
+However, my impression test participant stated that she would have liked to see at least 6 of the events on one page before having to go the next page. To fix this, I added one more row of the event cards on the page, then changed the layout from 6 rows to 8 rows. (Her feedback also reminded me that I should have a pager at the bottom of all of the events to show that there are more than what is being displayed on the page, so I added that as well) 
+
+![image](https://user-images.githubusercontent.com/114601961/201457186-9b629bd1-90d2-4811-b3b1-765e7f69ac67.png) 
+
+![image](https://user-images.githubusercontent.com/114601961/201457211-25e20aa9-c82b-4d31-bfdf-197db683a85b.png)
+
+
 
