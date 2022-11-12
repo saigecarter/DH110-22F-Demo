@@ -6,11 +6,16 @@
 
 ## Description of Project
 
-My project aims to empower people who are interested in ocean conservation through informational resources as well as helping them take the next step to get involved through volunteering or connecting with an organization they may want to support. The target user for research is students or working professionals between the ages of 20-30 located within the United States (specifically coastal areas). The user research focuses on understanding what a user needs to feel equipped to start taking action, what information those interested in volunteer value when looking for an organiztion, and what encourages people to take action on an issue. 
+My project aims to empower people who are interested in ocean conservation through informational resources as well as helping them take the next step to get involved through volunteering or connecting with an organization they may want to support. The target user for research is students or working professionals between the ages of 20-30 located within the United States (specifically coastal areas). 
+
+My project aims to educate and empower those who are interested in ocean conservation through informational resources and assisting them in taking the next step to get engaged by providing volunteer opportunities or connecting them with an organization they may wish to support. The target user is students or working professionals between the ages of 18-40 located within the United States. I decided to name the platform "Tides of Change", as this calls to organized action and encourages the user who wants to make an impact. 
 
 ### Purpose of Interface Design
 
-The purpose of creating this interface design is to ensure that users can navigate the website and access components with ease, as well as to ensure that the site is accessible to those from all walks of life. Creating the design system allows the designer to re-use elements and ensures that the interface remains consistent throughout the website.
+The purpose of creating this interface design is to ensure that users can navigate the website and access components with ease, as well as to ensure that the site is accessible to those from all walks of life. Creating the design system allows the designer to re-use elements and ensures that the interface remains consistent throughout the website. 
+
+I created my entire design system using figma, and started with the lofi wireframe of the volunteer opportunities page:
+![lofi volunteer opportunities wireframe](https://user-images.githubusercontent.com/114601961/201459026-da7fc9aa-70ce-4625-9349-e45df370170f.png)
 
 
 ## Design Process
@@ -138,5 +143,6 @@ However, my impression test participant stated that she would have liked to see 
 
 **Layout:** I decided to go with a 12 column grid with a 300px margin because I have used that layout in the past, and it is standard. I let the Hero section bleed an extra 150px on both sides because Hero sections on websites tend to be wider than the actual content. 
 I chose a 12 column grid with a 100px margin based on this being a common standard as well as wanting to fit at least two event cards in a row. I played around with the gutter size and ultimately decided on 60px, mainly because I felt like it looked awkward to have the event cards and closer or further apart. 
+I utilized an 8 pt grid so that the smaller elements on the page would be multiples of 8px apart in vertical distance, mainly because I had been taught to do this in the past. 
 I first chose to have 6 rows, which would contain a 2x2 table of event cards on the page, with a 180px margin and a 80 px gutter, as I wanted the rows to be slightly further apart than columns. However, during impression testing, my participant stated that she would have liked to see more than 4 events on the page, which led me to change the 2x2 table of event cards to 3x2 so I could show 6 on the page. Due to this, I had to change the layout to having 8 rows rather than 6, but the gutter and margin remained the same. 
 
