@@ -62,17 +62,16 @@ Using a color contrast figma plugin, I checked the contrast between the main com
 
 ### Layout
 
-![page layout and 8 pt grid](https://user-images.githubusercontent.com/114601961/200874306-69bb0add-c720-472a-b537-daf66794a726.png)
-
 #### Initial 
 
 For the website layout, I *first* used 12 columns with 100px margins to contain the content and 60px gutters. I used 6 rows with 180px margins and 80px gutters. Lastly, I also used an 8px grid in order to space out the smaller elements by multiples of 8. I chose this design mainly because I was aware this was common pracice and had used a 12 column 8pt system in the past before.
 
+![image](https://user-images.githubusercontent.com/114601961/201457186-9b629bd1-90d2-4811-b3b1-765e7f69ac67.png) 
+
+
 #### Second iteration
 
 However, my impression test participant stated that she would have liked to see at least 6 of the events on one page before having to go the next page. To fix this, I added one more row of the event cards on the page, then changed the layout from 6 rows to 8 rows. (Her feedback also reminded me that I should have a pager at the bottom of all of the events to show that there are more than what is being displayed on the page, so I added that as well) 
-
-![image](https://user-images.githubusercontent.com/114601961/201457186-9b629bd1-90d2-4811-b3b1-765e7f69ac67.png) 
 
 ![image](https://user-images.githubusercontent.com/114601961/201457211-25e20aa9-c82b-4d31-bfdf-197db683a85b.png)
 
