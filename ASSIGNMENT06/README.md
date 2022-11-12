@@ -42,7 +42,8 @@ Ultimately, I landed on using Articulat CF because I wanted the website to have 
 
 I decided that I wanted rounded corners throughout my design, but had to choose between three different intensity levels of roundedness. I decided on using the *medium rounded* option. I wanted to keep the friendly, approachable and modern feel that rounded corners offered. However, I felt that having *too round* corners would cause the website too look less professional.
 
-![image](https://user-images.githubusercontent.com/114601961/201458628-72dfe2ca-7e5e-4afd-b785-e75b532010f9.png)---
+![image](https://user-images.githubusercontent.com/114601961/201458628-72dfe2ca-7e5e-4afd-b785-e75b532010f9.png)
+---
 
 ### Color Palettes
 
@@ -64,7 +65,7 @@ Using a color contrast figma plugin, I checked the contrast between the main com
 
 ## Impression Testing 
 
-[Link to screen+audio recording](https://drive.google.com/file/d/1OXsXvZTfkXl2VHqf9sfUwlW9C-6J8qGt/view?usp=sharing)
+[Link to screen+video recording](https://drive.google.com/file/d/1OXsXvZTfkXl2VHqf9sfUwlW9C-6J8qGt/view?usp=sharing)
 
 ### 5-second-test findings
 
