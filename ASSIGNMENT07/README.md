@@ -13,7 +13,7 @@ The high fidelity prototype was created using Figma, on a iPhone 13 / 13 Pro scr
 ## Tasks
 1. Login/Create account
 2. Look for and register for a volunteer opportunity 
-3. Look for a nonprofit organization
+3. Find a nonprofit organization and make a donation
 4. Access saved events and organizations
 
 ## Interactive Prototype 
