@@ -80,8 +80,8 @@ Screenshot of second iteration of wireflow with changes made based on feedback f
   <img src="https://user-images.githubusercontent.com/114601961/203513745-687dae11-9dc5-4cfd-af0b-8a1d23d83315.png" width="400px"/>
 </p>
 
-- [Figma Wireflow](https://www.figma.com/file/nTMgIypMpzI9N47JF1HRUp/A7-hifi-wireflows?node-id=0%3A1&t=73xJ2r1vXjeu1ASO-1)
-- [Figma Prototype](https://www.figma.com/file/XBPIU4JBc1oHRONafFnsuv/A7-hifi-prototype?node-id=0%3A1&t=Mihig6R0ibj4ElzU-1)
+- [Updated Figma Wireflow](https://www.figma.com/file/nTMgIypMpzI9N47JF1HRUp/A7-hifi-wireflows?node-id=0%3A1&t=73xJ2r1vXjeu1ASO-1)
+- [Updated Figma Prototype](https://www.figma.com/file/XBPIU4JBc1oHRONafFnsuv/A7-hifi-prototype?node-id=0%3A1&t=Mihig6R0ibj4ElzU-1)
 
 ## Usability Testing 
 
