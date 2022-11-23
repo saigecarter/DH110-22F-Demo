@@ -16,7 +16,7 @@ The high fidelity prototype was created using Figma, on a iPhone 13 / 13 Pro scr
 3. Find a nonprofit organization and make a donation
 4. Access saved events and organizations
 
-## First Iteration of the Interactive Prototype 
+## First Interactive Prototype 
 
 Screenshot of first iteration of wireflow with interface design implemented.
 
@@ -37,7 +37,7 @@ A cognitive walkthrough was conducted with two other classmates during Week 9 an
 > 
 > They also mentioned it was a bit unexpected that the first page they land on after logging in was the Volunteer Opportunities page. 
 
-**Solution 1:**
+**Solution:**
 
 In the second iteration, I added more to the onboarding process with two slides that explained what the app does, including the Volunteer Opportunities and Organizations features. In adding this, users would be able to understand what they are able to achieve with the app. 
 
@@ -48,7 +48,7 @@ I believe this also aids in the Volunteer Opportunities page as the first page t
 > 
 > One classmate mentioned that they expected the donation button to be more visible.
 
-**Solution 2:**
+**Solution:**
 
 To make the name of the organization more obvious that it was clickable, I added an underline to the name, as one classmade had mentioned that is what they would usually expect. 
 
@@ -60,13 +60,66 @@ Screenshot of second iteration of wireflow with changes made based on feedback f
 
 ![image](https://user-images.githubusercontent.com/114601961/203506204-0536a558-974e-4025-a4dd-736be72f3312.png)
 
-**Solution 1: Adding to the onboarding process:**
+**Solution: Adding to the onboarding process:**
+
 
 <p align="center">
-  <img src="Assignments/1.png" alt="Kasey User Persona" width="500px"/>
-  <img src="Assignments/4.png" alt="Kennedy User Persona" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/114601961/203511575-74c47ed0-2a91-4d82-be0b-61fd9506f5c9.png" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/114601961/203511814-3e981b9e-d321-4604-95bc-d6e1667fff3f.png" width="600px"/>
 </p>
 
+**Solution: Adding underline to organization name & changing filter icon to button with "Filter"**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/203512955-8ff4ad8d-5e53-401f-842b-8031ab51d19e.png" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/114601961/203513058-6991b741-dc0f-4ce5-b5cb-5a8398ee8fd6.png" width="400px"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/203513632-a6caf2ed-e077-42f0-aeef-b80618e92bfb.png" width="400px"/>
+  <img src="https://user-images.githubusercontent.com/114601961/203513745-687dae11-9dc5-4cfd-af0b-8a1d23d83315.png" width="400px"/>
+</p>
 
 - [Figma Wireflow](https://www.figma.com/file/nTMgIypMpzI9N47JF1HRUp/A7-hifi-wireflows?node-id=0%3A1&t=73xJ2r1vXjeu1ASO-1)
 - [Figma Prototype](ttps://www.figma.com/file/XBPIU4JBc1oHRONafFnsuv/A7-hifi-prototype?node-id=0%3A1&t=Mihig6R0ibj4ElzU-1)
+
+## Usability Testing 
+
+To test the usability of the app, I asked a volunteer general questions about the app and asked her to complete the following tasks:
+1: Find a volunteer opportunity in your area (Los Angeles) and register for it.
+2: Find an organization's page with their information and make a donation.
+3: Access your saved/favorited volunteer opportunities and organizations and navigate to their pages. 
+
+Please find the video of the usability testing [here](https://drive.google.com/file/d/1k7RQPePnFlIQRFIDB8CAaxGe6wnmAHzh/view?usp=sharing)
+
+Please find the survey for usability testing [here](https://docs.google.com/forms/d/e/1FAIpQLSfFq7DWYhmQHCb0UKvjV2_YMTRY096zx4Al9-7u3qJPbNviDw/viewform?usp=sharing) 
+*This is the responder link, but professor has been added as a collaborator to view responses**
+
+In the beginning of the survey, the volunteer found that the website looked easy to use, trustworthy, with a pleasant design. 
+When asked what they expected to do on each page, their answers were all correct. 
+
+For Volunteer Opportunities page:
+> "I would expect to click on each of these events and learn more about them in order to sign up for volunteer opportunities."
+
+For Organizations page:
+> "I would expect to be able to browse organizations and learn more about them including their goals and objectives. I feel like I would go here to gauge more information if I was interested in joining one of these orgs."
+
+Here, the only thing they were not expecting was the ability to donate. 
+
+For profile page:
+> "I would expect to be able to access any saved events/volunteer opportunities and organizations that I was interested in and wanted to revist."
+
+The participant was able to fully complete the tasks without any problems and remarked that everything was very intutitive to them.
+
+The participant struggled a bit with going to the next page on the onboarding process, but I believe that because they were using a mobile prototype, the were not sure if they were able to drag the screen as you usually would on mobile. 
+To fix this I could still add a button or side arrows to make it easier for the user in edge cases. 
+
+At one point, I noticed that rather than clicking "Learn more" on the card for the Organizations, they tried to click on the entire card at first, so I asked them about it and their response was:
+
+> "I feel like normally I would go for "Learn more", but I feel like recently, I just notived that they make the whole thing accessible. So like, I kind of got used to it like that. But that's like a recent thing that I've noticed with apps, but it didn't really bother me."
+
+I could fix this by making the entire card clickable rather than only the learn more, or remove the learn more entirely. However, since the participant mentioned this was something in recent apps, I wonder how intuitive it would be without the button. 
+
+Overall, I felt that the usability testing went well and I learned about a few things that could help my app improve. For the next usability testing, I would like to interview a participant that was even closer to the target user demographic.
+
+
