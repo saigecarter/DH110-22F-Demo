@@ -98,23 +98,28 @@ Please find the video of the usability testing [here](https://drive.google.com/f
 
 ### UT survey
 Please find the survey for usability testing [here](https://docs.google.com/forms/d/e/1FAIpQLSfFq7DWYhmQHCb0UKvjV2_YMTRY096zx4Al9-7u3qJPbNviDw/viewform?usp=sharing) 
-*This is the responder link, but professor has been added as a collaborator to view responses**
+
+*This is the responder link, but professor has been added as a collaborator to view responses*
 
 ### Summary of Findings
 In the beginning of the survey, the volunteer found that the website looked easy to use, trustworthy, with a pleasant design. 
 When asked what they expected to do on each page, their answers were all correct. 
 
-For Volunteer Opportunities page:
+**For Volunteer Opportunities page:**
+
 > "I would expect to click on each of these events and learn more about them in order to sign up for volunteer opportunities."
 
-For Organizations page:
+**For Organizations page:**
+
 > "I would expect to be able to browse organizations and learn more about them including their goals and objectives. I feel like I would go here to gauge more information if I was interested in joining one of these orgs."
 
 Here, the only thing they were not expecting was the ability to donate. 
 
-For profile page:
+**For profile page:**
+
 > "I would expect to be able to access any saved events/volunteer opportunities and organizations that I was interested in and wanted to revist."
 
+#### Tasks:
 The participant was able to fully complete the tasks without any problems and remarked that everything was very intutitive to them.
 
 The participant struggled a bit with going to the next page on the onboarding process, but I believe that because they were using a mobile prototype, the were not sure if they were able to drag the screen as you usually would on mobile. 
