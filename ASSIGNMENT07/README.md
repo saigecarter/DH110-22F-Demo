@@ -123,13 +123,14 @@ Here, the only thing they were not expecting was the ability to donate.
 The participant was able to fully complete the tasks without any problems and remarked that everything was very intutitive to them.
 
 The participant struggled a bit with going to the next page on the onboarding process, but I believe that because they were using a mobile prototype, the were not sure if they were able to drag the screen as you usually would on mobile. 
-To fix this I could still add a button or side arrows to make it easier for the user in edge cases. 
+
+- To fix this I could still add a button or side arrows to make it easier for the user in edge cases. 
 
 At one point, I noticed that rather than clicking "Learn more" on the card for the Organizations, they tried to click on the entire card at first, so I asked them about it and their response was:
 
 > "I feel like normally I would go for "Learn more", but I feel like recently, I just notived that they make the whole thing accessible. So like, I kind of got used to it like that. But that's like a recent thing that I've noticed with apps, but it didn't really bother me."
 
-I could fix this by making the entire card clickable rather than only the learn more, or remove the learn more entirely. However, since the participant mentioned this was something in recent apps, I wonder how intuitive it would be without the button. 
+- I could fix this by making the entire card clickable rather than only the learn more, or remove the learn more entirely. However, since the participant mentioned this was something in recent apps, I wonder how intuitive it would be without the button. 
 
 Overall, I felt that the usability testing went well and I learned about a few things that could help my app improve. For the next usability testing, I would like to interview a participant that was even closer to the target user demographic.
 
