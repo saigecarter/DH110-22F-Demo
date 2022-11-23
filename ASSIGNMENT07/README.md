@@ -22,8 +22,8 @@ Screenshot of first iteration of wireflow with interface design implemented.
 
 ![image](https://user-images.githubusercontent.com/114601961/202225173-7798ef12-0a15-43e3-b843-d74490b62364.png)
 
-- [Figma Wireflow](https://www.figma.com/file/nTMgIypMpzI9N47JF1HRUp/A7-hifi-wireflows?node-id=0%3A1&t=UKo0CKvm6qwtiVf5-1)
-- [Figma Prototype](https://www.figma.com/proto/XBPIU4JBc1oHRONafFnsuv/A7-hifi-prototype?page-id=0%3A1&node-id=1%3A22&viewport=399%2C172%2C0.12&scaling=min-zoom&starting-point-node-id=1%3A17)
+- [First Figma Wireflow](https://www.figma.com/file/FfZHNOYvfYzp2J4a34nLjS/A7-hifi-wireflows---1st?node-id=0%3A1&t=vmMDysQqXMNSpTG9-1)
+- [First Figma Prototype](https://www.figma.com/file/3DOeNVQ3Z16uGWtrQYYXGE/A7-prototype---1st?node-id=0%3A1&t=Gra0xtvPul2wFIh2-1)
 
 ## Cognitive Walkthrough
 
@@ -81,7 +81,7 @@ Screenshot of second iteration of wireflow with changes made based on feedback f
 </p>
 
 - [Figma Wireflow](https://www.figma.com/file/nTMgIypMpzI9N47JF1HRUp/A7-hifi-wireflows?node-id=0%3A1&t=73xJ2r1vXjeu1ASO-1)
-- [Figma Prototype](ttps://www.figma.com/file/XBPIU4JBc1oHRONafFnsuv/A7-hifi-prototype?node-id=0%3A1&t=Mihig6R0ibj4ElzU-1)
+- [Figma Prototype](https://www.figma.com/file/XBPIU4JBc1oHRONafFnsuv/A7-hifi-prototype?node-id=0%3A1&t=Mihig6R0ibj4ElzU-1)
 
 ## Usability Testing 
 
