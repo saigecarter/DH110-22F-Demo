@@ -22,6 +22,7 @@ Screenshot of first iteration of wireflow with interface design implemented.
 
 ![image](https://user-images.githubusercontent.com/114601961/202225173-7798ef12-0a15-43e3-b843-d74490b62364.png)
 
+### Wireflow & Prototype links
 - [First Figma Wireflow](https://www.figma.com/file/FfZHNOYvfYzp2J4a34nLjS/A7-hifi-wireflows---1st?node-id=0%3A1&t=vmMDysQqXMNSpTG9-1)
 - [First Figma Prototype](https://www.figma.com/file/3DOeNVQ3Z16uGWtrQYYXGE/A7-prototype---1st?node-id=0%3A1&t=Gra0xtvPul2wFIh2-1)
 
@@ -79,6 +80,8 @@ Screenshot of second iteration of wireflow with changes made based on feedback f
   <img src="https://user-images.githubusercontent.com/114601961/203513632-a6caf2ed-e077-42f0-aeef-b80618e92bfb.png" width="400px"/>
   <img src="https://user-images.githubusercontent.com/114601961/203513745-687dae11-9dc5-4cfd-af0b-8a1d23d83315.png" width="400px"/>
 </p>
+
+### Wireflow & Prototype links
 
 - [Updated Figma Wireflow](https://www.figma.com/file/nTMgIypMpzI9N47JF1HRUp/A7-hifi-wireflows?node-id=0%3A1&t=73xJ2r1vXjeu1ASO-1)
 - [Updated Figma Prototype](https://www.figma.com/file/XBPIU4JBc1oHRONafFnsuv/A7-hifi-prototype?node-id=0%3A1&t=Mihig6R0ibj4ElzU-1)
