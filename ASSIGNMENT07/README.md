@@ -86,15 +86,21 @@ Screenshot of second iteration of wireflow with changes made based on feedback f
 ## Usability Testing 
 
 To test the usability of the app, I asked a volunteer general questions about the app and asked her to complete the following tasks:
+
 1: Find a volunteer opportunity in your area (Los Angeles) and register for it.
+
 2: Find an organization's page with their information and make a donation.
+
 3: Access your saved/favorited volunteer opportunities and organizations and navigate to their pages. 
 
+### UT video
 Please find the video of the usability testing [here](https://drive.google.com/file/d/1k7RQPePnFlIQRFIDB8CAaxGe6wnmAHzh/view?usp=sharing)
 
+### UT survey
 Please find the survey for usability testing [here](https://docs.google.com/forms/d/e/1FAIpQLSfFq7DWYhmQHCb0UKvjV2_YMTRY096zx4Al9-7u3qJPbNviDw/viewform?usp=sharing) 
 *This is the responder link, but professor has been added as a collaborator to view responses**
 
+### Summary of Findings
 In the beginning of the survey, the volunteer found that the website looked easy to use, trustworthy, with a pleasant design. 
 When asked what they expected to do on each page, their answers were all correct. 
 
