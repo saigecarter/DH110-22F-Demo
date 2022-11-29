@@ -23,7 +23,10 @@ The first step was to conduct a heuristic evaluation of the websites [Funding th
 **Marine Watch International:**
 > Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual heirarchy.
 
-A heuristic analysis of [FundingtheOcean.org](https://fundingtheocean.org/) can be found at [Assignment 1](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT01)
+Read more on the heurstic analysis [here]((https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT01))
+
+### Usability Testing 
+
 The usability test of FundingtheOcean.org can be found at [Assignment 2](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT02)
 
 ## User Research
