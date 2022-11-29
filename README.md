@@ -27,9 +27,11 @@ Read more on the heurstic analysis [here]((https://github.com/saigecarter/DH110-
 
 ### Usability Testing 
 
-I conducted a usability test for Funding the OCean
+Following my heuristic analysis, I conducted a usability testing on the [Funding the Ocean](https://fundingtheocean.org/) to evaluate the usability of the website and test how the user's ability to reach their goals might be affected by the problems found in the heuristic analysis. I asked the volunteer in the test to complete three tasks that the website offers: 1. Find information about a local organization in Los Angeles 2. Find which resources the website is provides 3. Find events to learn about ocean conservation efforts you can attend virtually. 
+I found that during the test, the user was mostly able to complete the tasks they were given, but ran into some difficulty. Unexpectedly, the usability testing also exposed usability problems with the site that I missed during the heuristic analysis.
 
-The usability test of FundingtheOcean.org can be found at [Assignment 2](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT02)
+You can read more about the usability testing [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT02) and find the video of the usability testing [here]()
+
 
 ## User Research
 The contextual inquiry can be found at [Assignment 3](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT03).
@@ -38,6 +40,7 @@ The contextual inquiry can be found at [Assignment 3](https://github.com/saigeca
 The user personas and journey maps can be found at [Assignment 4](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT04)
 
 ### User Personas
+
 
 
 
