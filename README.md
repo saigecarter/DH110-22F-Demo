@@ -25,7 +25,7 @@ The first step was to conduct a heuristic evaluation of the websites [Funding th
 
 Read more on the heurstic analysis [here]((https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT01))
 
-### Usability Testing 
+### Usability Testing
 
 Following my heuristic analysis, I conducted a usability testing on the [Funding the Ocean](https://fundingtheocean.org/) to evaluate the usability of the website and test how the user's ability to reach their goals might be affected by the problems found in the heuristic analysis. I asked the volunteer in the test to complete three tasks that the website offers: 1. Find information about a local organization in Los Angeles 2. Find which resources the website is provides 3. Find events to learn about ocean conservation efforts you can attend virtually. 
 I found that during the test, the user was mostly able to complete the tasks they were given, but ran into some difficulty. Unexpectedly, the usability testing also exposed usability problems with the site that I missed during the heuristic analysis.
@@ -34,9 +34,19 @@ You can read more about the usability testing [here](https://github.com/saigecar
 
 
 ## User Research
-The contextual inquiry can be found at [Assignment 3](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT03).
+
+After identifying the design problems of competitor sites through the heuristic analysis and usability testing, it was important to gain an understanding of the potential users for my site. To achieve this, I conducted a contextual inquiry with someone as close as possible to my target user. I decided to interview someone who was deeply involved with volunteer work to better understand what methods they use to find volunteer opportunities and organizations to get involved with and what kind of information they value in this process. This information was key to keep in mind how I would create a design solution for my target users. Some of the key takeaways included:
+
+1. Information on a social issue itself is not sufficient to help one feel equipped to take action 
+2. Those who are interested/experienced in volunteer work care a lot about the "economics" of an organization
+3. Time commitment is an important metric used to determine what event one would participate in, so displaying it is helpful 
+4. Understanding how it can effect them is important in encouraging people to take action on an issue. 
+
+The full contextual inquiry can be found at [Assignment 3](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT03).
 
 ## UX Storytelling
+
+
 The user personas and journey maps can be found at [Assignment 4](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT04)
 
 ### User Personas
