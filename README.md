@@ -9,9 +9,20 @@ I chose this topic because, like many, I am very aware of the endangerment of th
 
 ## Design Statement
 
-While looking for websites related to the Life Below Water UN Goal, I found that there was a lack websites/platforms that served as a centralized source for people to get involved. Some would only list individual ways to help such as "reducing waste", "buying local fish", or general statements such as "support a Goal 14 charity" or "organize a cleanup project", but the users were left to find a way to achieve their goals without any resources being provided. After noticing this gap, my question was: **How might I design an accessible digital platform that empowers users looking to make an impact in ocean conservation efforts by connecting them to volunteer opportunities and organizations that align with their interests? **
+While looking for websites related to the Life Below Water UN Goal, I found that there was a lack websites/platforms that served as a centralized source for people to get involved. Some would only list individual ways to help such as "reducing waste", "buying local fish", or general statements such as "support a Goal 14 charity" or "organize a cleanup project", but the users were left to find a way to achieve their goals without any resources being provided. After noticing this gap, my question was:  **How might I design an accessible digital platform that empowers users looking to make an impact in ocean conservation efforts by connecting them to volunteer opportunities and organizations that align with their interests?**
 
 ## Competitor Analysis
+
+### Heurstic Evaluation
+
+The first step was to conduct a heuristic evaluation of the websites [Funding the Ocean](https://fundingtheocean.org/) and [Marine Watch International](https://marinewatchintl.force.com/main/s/?language=en_US) based on the heuristics by [Jakob Neilson](https://www.nngroup.com/articles/ten-usability-heuristics/) to analyze the user interface of its design. If the website was found to violate one of the heuristics, they were given a severity rating. For this task, I looked for websites that attempted to provide the users with resources and connect them to events and organizations related to ocean conservation, so I was interested in seeing how the heuristics related to this kind of website. Below are the overall assesments from the evaluations:
+
+**Funding the Ocean:**
+> Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual heirarchy.
+
+**Marine Watch International:**
+> Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual heirarchy.
+
 A heuristic analysis of [FundingtheOcean.org](https://fundingtheocean.org/) can be found at [Assignment 1](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT01)
 The usability test of FundingtheOcean.org can be found at [Assignment 2](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT02)
 
