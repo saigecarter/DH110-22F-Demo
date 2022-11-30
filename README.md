@@ -96,13 +96,13 @@ Creating the low-fidelity prototypes allowed me to first focus on the functional
   <img src="https://user-images.githubusercontent.com/114601961/204690646-0ac56eba-e87e-49bc-a397-a4eab83b1eae.png" width="700px"/>
 </p>
 
-**Task 2: Find an organization***
+**Task 2: Find an organization**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/114601961/204690646-0ac56eba-e87e-49bc-a397-a4eab83b1eae.png" width="700px"/>
 </p>
 
-**Task 3: Find Resources***
+**Task 3: Find Resources**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/114601961/204690692-2bf9e03d-a4a8-4515-bc15-0f9f2d35385d.png" width="700px"/>
@@ -214,3 +214,7 @@ During this section, the participants were able to fully complete the tasks with
 
 
 ## Conclusion
+
+Overall, I feel that I have learned a lot going through the entire process of building this product and that I was able to successfully create a platform that helps the target users achieve their goals. Although I had created designs in the past, this was the first time that I had done such in depth research throughout the entire process. The most enlightening task that I did was the contextual inquiry. At first, I didn't completely understand learning so much about the context surrounding a potential user. However, after doing so, I realized that there was so much valuable information that one could learn about a potential user that you might not think you would need beforehand. I made sure to implement certain aspects to the app based on findings from the contextual inquiry, and the personas that I derived from it was instrumental in guiding the design process from the lofi to hifi wireframes. It was also incredibly helpful to learn from the competitor analysis what specific aspects from their products worked and didn't work for users.
+
+Although I am satisfied with the current state of the app, there are a few things that I would like to improve upon for the app. For example, I would have liked to keep the resources feature that was originally planned for the desktop version of the site so that they would be able to find topics that interested the and learn more about the, then find an organization related to those topics that they would connect to. Additionally, I would have liked to make the Organization's pages more expansive and possibly include information about the economics and past impacts of the organiztions as well as display upcoming volunteer opportunities on their pages to futher connect the two features. However, I've learned from the process that I would have to some user research on that feature before deciding to implement it. Lasty, I believe that my current app would also benefit from more usability testing. 
