@@ -40,9 +40,9 @@ A cognitive walkthrough was conducted with two other classmates during Week 9 an
 
 **Solution:**
 
-In the second iteration, I added more to the onboarding process with two slides that explained what the app does, including the Volunteer Opportunities and Organizations features. In adding this, users would be able to understand what they are able to achieve with the app. 
+- In the second iteration, I added more to the onboarding process with two slides that explained what the app does, including the Volunteer Opportunities and Organizations features. In adding this, users would be able to understand what they are able to achieve with the app. 
 
-I believe this also aids in the Volunteer Opportunities page as the first page they land on being unexpected, since the onboarding gives them a sense of what to expect. 
+- I believe this also aids in the Volunteer Opportunities page as the first page they land on being unexpected, since the onboarding gives them a sense of what to expect. 
 
 
 > When asked if there was anything inconsistent, missing, or confusing, they said that on the page of a Volunteer Organizations page, it was not obvious to them that they were able to click on the organizations name and that they were confused about the filter icon. 
@@ -51,11 +51,11 @@ I believe this also aids in the Volunteer Opportunities page as the first page t
 
 **Solution:**
 
-To make the name of the organization more obvious that it was clickable, I added an underline to the name, as one classmade had mentioned that is what they would usually expect. 
+- To make the name of the organization more obvious that it was clickable, I added an underline to the name, as one classmade had mentioned that is what they would usually expect. 
 
-To fix the confusion of the filter icon, I changed it from being a filter icon to a button with the word "Filters" to make it more obvious. 
+- To fix the confusion of the filter icon, I changed it from being a filter icon to a button with the word "Filters" to make it more obvious. 
 
-To fix the visibility of the donation button, I enabled a "fixed" position of the button on the page so that it would remain visible on the page regardless of where the user scrolls on the page
+- To fix the visibility of the donation button, I enabled a "fixed" position of the button on the page so that it would remain visible on the page regardless of where the user scrolls on the page
 
 ## Second Iteration of the Interactive Prototype
 
