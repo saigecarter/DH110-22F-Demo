@@ -104,17 +104,21 @@ To test the usability of the app, I asked a volunteer general questions about th
 
 3: Access your saved/favorited volunteer opportunities and organizations and navigate to their pages. 
 
-### UT video
-Please find the video of the usability testing [here](https://drive.google.com/file/d/1k7RQPePnFlIQRFIDB8CAaxGe6wnmAHzh/view?usp=sharing)
 
 ### UT survey
 Please find the survey for usability testing [here](https://docs.google.com/forms/d/e/1FAIpQLSfFq7DWYhmQHCb0UKvjV2_YMTRY096zx4Al9-7u3qJPbNviDw/viewform?usp=sharing) 
 
 *This is the responder link, but professor has been added as a collaborator to view responses*
 
-### Summary of Findings
+### Usability Test #1 
+
+Please find the video of the usability testing [here](https://drive.google.com/file/d/1k7RQPePnFlIQRFIDB8CAaxGe6wnmAHzh/view?usp=sharing)
+
+<ins>*Summary of Findings:*</ins>
+
 In the beginning of the survey, the volunteer found that the website looked easy to use, trustworthy, with a pleasant design. 
-When asked what they expected to do on each page, their answers were all correct. 
+
+When asked what they expected to do on each page, their answers all aligned with the intended design:
 
 **For Volunteer Opportunities page:**
 
@@ -130,7 +134,8 @@ Here, the only thing they were not expecting was the ability to donate.
 
 > "I would expect to be able to access any saved events/volunteer opportunities and organizations that I was interested in and wanted to revist."
 
-#### Tasks:
+<ins>*Tasks:*</ins>
+
 The participant was able to fully complete the tasks without any problems and remarked that everything was very intutitive to them.
 
 The participant struggled a bit with going to the next page on the onboarding process, but I believe that because they were using a mobile prototype, the were not sure if they were able to drag the screen as you usually would on mobile. 
@@ -144,5 +149,35 @@ At one point, I noticed that rather than clicking "Learn more" on the card for t
 - I could fix this by making the entire card clickable rather than only the learn more, or remove the learn more entirely. However, since the participant mentioned this was something in recent apps, I wonder how intuitive it would be without the button. 
 
 Overall, I felt that the usability testing went well and I learned about a few things that could help my app improve. For the next usability testing, I would like to interview a participant that was even closer to the target user demographic.
+
+### Usability Test #2
+
+Please find the video of the usability testing [here](https://drive.google.com/file/d/1CAWx5ABwcOHlLpeRlMMQ0MvgOZuHWz2C/view?usp=sharing)
+
+<ins>*Summary of Findings:*</ins>
+
+During the pretest survey, the volunteer found that the website looked easy to use, trustworthy, and said they liked the design of the app because it was "simple" and "nice to look at".
+
+When asked what they expected to do on each page, their answers all aligned with the intended design:
+
+**For Volunteer Opportunities page:**
+
+> "A place to sign up for volunteer opportunities near me."
+
+**For Organizations page:**
+
+> "Learn more about different ocean conservation organizations in the country"
+
+**For profile page:**
+
+> "See previous organizations and opportunities you liked and expressed interest in all in one place"
+
+<ins>*Tasks:*</ins>
+
+The participant was able to fully complete all of the tasks. There were points where they clicked on things that were not fully interactive in the prototype, however this was more of a prototyping issue, rather than an issue with the usability of the app. The next time that I do a usability test, I could make all of the intended clickable elements interactive to get a fuller experience of the app. 
+
+One issue that I noticed was that when asked to list the "Cause areas" of an organization, they did not list the cause areas with the pill design, but listed information that they found from the mission statement 
+
+- This could be easily solved by making the pills more visible to the user, either by making them larger or choosing a different way to display the information. 
 
 
