@@ -9,7 +9,7 @@ I chose this topic because, like many, I am very aware of the endangerment of th
 
 ## 🎗️Design Statement
 
-While looking for websites related to the Life Below Water UN Goal, I found that there was a lack of websites/platforms that served as a centralized source for people to get involved. Some would only list individual ways to help such as "reducing waste", "buying local fish", or general statements such as "support a Goal 14 charity" or "organize a cleanup project", but the users were left to find a way to achieve their goals without any resources being provided. After noticing this gap, my question was:  
+While looking for websites related to the Life Below Water UN Goal, I found that there was a lack of websites/platforms that served as a centralized source for people to get involved. Often they would only list individual ways to help such as "reducing waste", "buying local fish", or general statements such as "support a Goal 14 charity" or "organize a cleanup project", but the users were left to find a way to achieve their goals without any resources being provided. After noticing this gap, my question was:  
 
 **How might I design an accessible digital platform that empowers users looking to make an impact in ocean conservation efforts by connecting them to volunteer opportunities and organizations that align with their interests?**
 
