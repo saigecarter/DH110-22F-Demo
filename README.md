@@ -130,11 +130,6 @@ Below is an image showing the process of creating the design system:
 
 ![image](https://user-images.githubusercontent.com/114601961/204692501-395ecbe7-7942-4ab1-b220-5b0d684cd168.png)
 
-After this, I did an impression test with a volunteer and recieved valuable feedback. She expressed that she would have liked to see at least 6 of the events on one page before having to go the next page. To fix this, I added one more row of the event cards on the page, then changed the layout from 6 rows to 8 rows.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/114601961/204698379-555718f8-c128-45a6-a129-2b4614b2d004.png" width="600px"/>
-</p>
 
 ## 🖼️ High-Fidelity Prototype
 
@@ -156,13 +151,29 @@ Further information on the high-fidelity prototype can be found [here](https://g
 
 ### Impression Test 
 
+After creating the design system, I did an impression test with a volunteer and recieved valuable feedback. She expressed that she would have liked to see at least 6 of the events on one page before having to go the next page. To fix this, I added one more row of the event cards on the page, then changed the layout from 6 rows to 8 rows.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204698379-555718f8-c128-45a6-a129-2b4614b2d004.png" width="600px"/>
+</p>
+
 ### Cognitive Walkthrough 
 
 | Problem  | Solution |
 | ------------- | ------------- |
 | Because the login/signup page was the first page the users would land on, they were not really sure what the app as about. One was correct in that it was about an enviromental/oceanic problem, but was not sure exactly what they could do with the app. Another thought that the app would be about improving water quality. They also mentioned it was a bit unexpected that the first page they land on after logging in was the Volunteer Opportunities page. | I added more to the onboarding process with two slides that explained what the app does, including the Volunteer Opportunities and Organizations features. In adding this, users would be able to understand what they are able to achieve with the app.  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| When asked if there was anything inconsistent, missing, or confusing, they said that on the page of a Volunteer Organizations page, it was not obvious to them that they were able to click on the organizations  | To make the name of the organization more obvious that it was clickable, I added an underline to the name, as one classmade had mentioned that is what they would usually expect.  |
+| They were confused about what the filter icon was  | To fix the confusion of the filter icon, I changed it from being a filter icon to a button with the word "Filters" to make it more obvious. |
+| One classmate mentioned that they expected the donation button to be more visible.  | To fix the visibility of the donation button, I enabled a "fixed" position of the button on the page so that it would remain visible on the page regardless of where the user scrolls on the page  |
+
+<table>
+<tr>
+ <td> <img src="https://user-images.githubusercontent.com/114601961/203511814-3e981b9e-d321-4604-95bc-d6e1667fff3f.png" height="300px"> </td>
+ <td> <img src="https://user-images.githubusercontent.com/114601961/203513058-6991b741-dc0f-4ce5-b5cb-5a8398ee8fd6.png" height="300px"> </td>
+ <td> <img src="https://user-images.githubusercontent.com/114601961/203513745-687dae11-9dc5-4cfd-af0b-8a1d23d83315.png" height="300px"> </td>
+  <td> <img src="https://user-images.githubusercontent.com/114601961/204705693-a4c467e5-9186-4b60-93d9-603fe22bcef5.png" height="300px"> </td>
+</tr>
+</table>
 
 
 ### Usability testing 
