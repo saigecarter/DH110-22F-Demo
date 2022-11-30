@@ -48,7 +48,6 @@ The full contextual inquiry can be found at [Assignment 3](https://github.com/sa
 
 ## UX Storytelling
 
-
 ### User Personas
 
 After conducting research to better understand my target users, I developed two personas and user journey maps to help me empathize with users and keep in mind _who_ I would be designing the platform for. Based on the previous research conducted, I created personas that would demonstrate the motivations, thoughts, goals, and pain points that a two types of potenital users of my product would have. 
@@ -60,8 +59,8 @@ Persona 1: Alice Smith is a Generation Z college student in Los Angeles, who has
 Persona 2: Kevin Sato is a 26 year olf software engineer based in San Francisco, who was involved in environmentalism throughut his youth, but feels like he has been missing that part of his life in recent years focusing on his career. He is too busy to commit to hands-on volunteer work, but wants to find an organization whose mission he connects with to make donations to. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/114601961/198000361-3b382043-3e8d-4959-b1d5-6d2258bd96c7.png" alt="Alice User Persona" width="500px"/>
-  <img src="https://user-images.githubusercontent.com/114601961/198000394-5fdb14c2-f446-4ade-b6cc-625a955adafd.png" alt="Alice Empathy Map" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/114601961/198000361-3b382043-3e8d-4959-b1d5-6d2258bd96c7.png" alt="Alice User Persona" width="600px"/>
+  <img src="https://user-images.githubusercontent.com/114601961/198000394-5fdb14c2-f446-4ade-b6cc-625a955adafd.png" alt="Alice Empathy Map" width="400px"/>
 </p>
 
 
@@ -79,7 +78,7 @@ Persona 2: Kevin Sato is a 26 year olf software engineer based in San Francisco,
 
 More on the user personas and journey maps can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT04)
 
-## Wireframes & User Interface Design
+## Wireframes & Low Fidelity Prototype 
 
 With the developed personas created to guide my design process, I decided to develop three features that the user would have:
 
@@ -89,18 +88,30 @@ With the developed personas created to guide my design process, I decided to dev
 
 Creating the low-fidelity prototypes allowed me to first focus on the functionality of the site and test the usability of these features early in development. By doing this, I was able to determine what fundamental changes or improvements to the site I would make before moving into the high-fidelity prorotype where I would focus more on the overall design of the product. 
 
+### Initial Lo-Fi Wireflows
+
+**Task 1: Register for a Volunteer Event **
+
+Task 2: Find an organizaiton 
+
+Task 3:
 
 Wireframes and UI design can be found at [Assignment 5](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT05)
 
-## Low-Fidelity Prototype
+### Low-Fidelity Prototype
 
 The low-fidelity prototype of the project can be found at [Assignment 6]((https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT06))
+
+### Design System 
+
+
 
 ## High-Fidelity Prototype
 
 The high-fidelity prototype of the project can be found at [Assignment 7](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT06)
 
 ## Further Evaluations & Revisions
+
 
 
 ## Pitch Video
