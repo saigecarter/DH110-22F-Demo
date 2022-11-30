@@ -17,15 +17,15 @@ While looking for websites related to the Life Below Water UN Goal, I found that
 
 ### Heurstic Evaluation
 
-The first step was to conduct a heuristic evaluation of the websites [Funding the Ocean](https://fundingtheocean.org/) and [Marine Watch International](https://marinewatchintl.force.com/main/s/?language=en_US) based on the heuristics by [Jakob Neilson](https://www.nngroup.com/articles/ten-usability-heuristics/) to analyze the user interface of its design. If the website was found to violate one of the heuristics, they were given a severity rating. For this task, I looked for websites that attempted to provide the users with resources and connect them to events and organizations related to ocean conservation, so I was interested in seeing how the heuristics related to this kind of website. Below are the overall assesments from the evaluations:
+The first step was to conduct a heuristic evaluation of the websites [Funding the Ocean](https://fundingtheocean.org/) and [Marine Watch International](https://marinewatchintl.force.com/main/s/?language=en_US) based on the heuristics by [Jakob Neilson](https://www.nngroup.com/articles/ten-usability-heuristics/) to analyze the user interface of its design. If the website was found to violate one of the heuristics, they were given a severity rating. For this task, I looked for websites that attempted to provide the users with resources and connect them to events and organizations related to ocean conservation, so I was interested in seeing how the heuristics related to this kind of website. Below are the overall assessments from the evaluations:
 
 **Funding the Ocean:**
-> Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual heirarchy.
+> Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual hierarchy.
 
 **Marine Watch International:**
-> Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual heirarchy.
+> Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual hierarchy.
 
-*Further information on the heurstic analysis can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT01).*
+*Further information on the heuristic analysis can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT01).*
 
 ### Usability Testing
 
@@ -92,7 +92,7 @@ With the developed personas created to guide my design process, I decided to dev
 2. Organizations - provides a list of organizations based on details including location and cause area, and allows user to view more information about the organization.
 3. Resources page - page that provides the user with information including pressing ocean issues, the SDG targets, and ways to help.
 
-Creating the low-fidelity prototypes allowed me to first focus on the functionality of the site and test the usability of these features early in development. By doing this, I was able to determine what fundamental changes or improvements to the site I would make before moving into the high-fidelity prorotype where I would focus more on the overall design of the product. 
+Creating the low-fidelity prototypes allowed me to first focus on the functionality of the site and test the usability of these features early in development. By doing this, I was able to determine what fundamental changes or improvements to the site I would make before moving into the high-fidelity prototype where I would focus more on the overall design of the product. 
 
 ### Initial Lo-Fi Wireflows
 
@@ -128,7 +128,7 @@ During the testing process, I was able to see how a user would interact with the
 
 ## 🎨 Interface Design System 
 
-After working on the lo-fi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color constrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes. During the process, I learned a lot about how to actually place the features that I had in mind onto the page and looking at other websites helped me understand how to implement them in an intuitive way. 
+After working on the lo-fi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color contrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes. During the process, I learned a lot about how to actually place the features that I had in mind onto the page and looking at other websites helped me understand how to implement them in an intuitive way. 
 
 Below is an image showing the process of creating the design system:
 
@@ -137,7 +137,7 @@ Below is an image showing the process of creating the design system:
 
 ## 🖼️ High-Fidelity Prototype
 
-Following the user reserach and feedback on the low fidelity prototype and design system, I created a mobile version for the hi-fidelity prototype out of the full responsive system. To make the design more mobile-friendly, I also created a profile page, as this would usually be found on the navigation bar, and removed the Resources feature as it was slightly too content heavy for a mobile version. This process allowed me to conduct usability test a prototype so that any improvements could be made before the final product.
+Following the user research and feedback on the low fidelity prototype and design system, I created a mobile version for the hi-fidelity prototype out of the full responsive system. To make the design more mobile-friendly, I also created a profile page, as this would usually be found on the navigation bar, and removed the Resources feature as it was slightly too content heavy for a mobile version. This process allowed me to conduct usability test a prototype so that any improvements could be made before the final product.
 
 #### First wireflow with the interface design implemented:
 
@@ -155,7 +155,7 @@ Further information on the high-fidelity prototype can be found [here](https://g
 
 ### Impression Test 
 
-After creating the design system, I did an impression test with a volunteer and recieved valuable feedback. She expressed that she would have liked to see at least 6 of the events on one page before having to go the next page. To fix this, I added one more row of the event cards on the page, then changed the layout from 6 rows to 8 rows.
+After creating the design system, I did an impression test with a volunteer and received valuable feedback. She expressed that she would have liked to see at least 6 of the events on one page before having to go the next page. To fix this, I added one more row of the event cards on the page, then changed the layout from 6 rows to 8 rows.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/114601961/204698379-555718f8-c128-45a6-a129-2b4614b2d004.png" width="600px"/>
@@ -163,7 +163,7 @@ After creating the design system, I did an impression test with a volunteer and 
 
 ### Cognitive Walkthrough 
 
-After creating the high-fidelity prototypte, a cognitive walkthrough was conducted with two other classmates. First, they gave their initial impressions of app, answered questions about what they thought the app was about and what they thought they could do with the app. Then, they completed tasks in the following order:
+After creating the high-fidelity prototype, a cognitive walkthrough was conducted with two other classmates. First, they gave their initial impressions of app, answered questions about what they thought the app was about and what they thought they could do with the app. Then, they completed tasks in the following order:
 
 1. Find a volunteer opportunity related to ocean conservation near you (in Los Angeles) and register for it.
 2. Find an ocean conservation organization and make a donation. 
@@ -172,8 +172,8 @@ Overall, they were able to navigate through the app with little difficulty and d
 
 | Problem  | Solution |
 | ------------- | ------------- |
-| Because the login/signup page was the first page the users would land on, they were not really sure what the app as about. One was correct in that it was about an enviromental/oceanic problem, but was not sure exactly what they could do with the app. Another thought that the app would be about improving water quality. They also mentioned it was a bit unexpected that the first page they land on after logging in was the Volunteer Opportunities page. | I added more to the onboarding process with two slides that explained what the app does, including the Volunteer Opportunities and Organizations features. In adding this, users would be able to understand what they are able to achieve with the app.  |
-| When asked if there was anything inconsistent, missing, or confusing, they said that on the page of a Volunteer Organizations page, it was not obvious to them that they were able to click on the organizations  | To make the name of the organization more obvious that it was clickable, I added an underline to the name, as one classmade had mentioned that is what they would usually expect.  |
+| Because the login/signup page was the first page the users would land on, they were not really sure what the app as about. One was correct in that it was about an environmental/oceanic problem, but was not sure exactly what they could do with the app. Another thought that the app would be about improving water quality. They also mentioned it was a bit unexpected that the first page they land on after logging in was the Volunteer Opportunities page. | I added more to the onboarding process with two slides that explained what the app does, including the Volunteer Opportunities and Organizations features. In adding this, users would be able to understand what they are able to achieve with the app.  |
+| When asked if there was anything inconsistent, missing, or confusing, they said that on the page of a Volunteer Organizations page, it was not obvious to them that they were able to click on the organizations  | To make the name of the organization more obvious that it was clickable, I added an underline to the name, as one classmate had mentioned that is what they would usually expect.  |
 | They were confused about what the filter icon was  | To fix the confusion of the filter icon, I changed it from being a filter icon to a button with the word "Filters" to make it more obvious. |
 | One classmate mentioned that they expected the donation button to be more visible.  | To fix the visibility of the donation button, I enabled a "fixed" position of the button on the page so that it would remain visible on the page regardless of where the user scrolls on the page  |
 
@@ -219,4 +219,4 @@ During this section, the participants were able to fully complete the tasks with
 
 Overall, I feel that I have learned a lot going through the entire process of building this product and that I was able to successfully create a platform that helps the target users achieve their goals. Although I had created designs in the past, this was the first time that I had done such in-depth research throughout the entire process. The most enlightening task that I did was the contextual inquiry. At first, I didn't completely understand learning so much about the context surrounding a potential user. However, after doing so, I realized that there was so much valuable information that one could learn about a potential user that you might not think you would need beforehand. I made sure to implement certain aspects to the app based on findings from the contextual inquiry, and the personas that I derived from it were instrumental in guiding the design process from the lo-fi to hi-fi wireframes. It was also incredibly helpful to learn from the competitor analysis what specific aspects from their products worked and didn't work for users.
 
-Although I am satisfied with the current state of the app, there are a few things that I would like to improve upon. For example, I would have liked to keep the resources feature that was originally planned for the desktop version of the site so that they would be able to find topics that interested them and learn more about them, then find an organization related to those topics that they connected to. Additionally, I would have liked to make the Organization's pages more expansive and possibly include information about the economics and past impacts of the organiztions as well as display upcoming volunteer opportunities on their pages to futher connect the two features. However, I've learned from the process that I would have to some user research on that feature before deciding to implement it. Lasty, I believe that my current app would also benefit from more usability testing. 
+Although I am satisfied with the current state of the app, there are a few things that I would like to improve upon. For example, I would have liked to keep the resources feature that was originally planned for the desktop version of the site so that they would be able to find topics that interested them and learn more about them, then find an organization related to those topics that they connected to. Additionally, I would have liked to make the Organization's pages more expansive and possibly include information about the economics and past impacts of the organizations as well as display upcoming volunteer opportunities on their pages to further connect the two features. However, I've learned from the process that I would have to some user research on that feature before deciding to implement it. Lasty, I believe that my current app would also benefit from more usability testing. 
