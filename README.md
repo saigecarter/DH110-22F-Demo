@@ -4,16 +4,16 @@ theme:
 
 Saige Carter | DH110 | Fall 2022
 
-## Introduction
+## 🌊 Introduction
 
 The goal of this project is to help people get involved in ocean conservation by connecting them to volunteer opportunities and organizations. The foundation for the project was based on choosing one of the topics of the UN's sustainable development goals that interested me. I chose the UN Global Goal #14: Life Below Water. 
 I chose this topic because, like many, I am very aware of the endangerment of the ocean caused by problems such as plastic pollution, climate change, and overfishing. However, many people can relate in sharing the concern for our ocean, but feel distanced from the problem or disconnected from the ability to help. Therefore, I wanted to focus my project on empowering people to get involved in ocean conservation. 
 
-## Design Statement
+## 🎗️Design Statement
 
 While looking for websites related to the Life Below Water UN Goal, I found that there was a lack websites/platforms that served as a centralized source for people to get involved. Some would only list individual ways to help such as "reducing waste", "buying local fish", or general statements such as "support a Goal 14 charity" or "organize a cleanup project", but the users were left to find a way to achieve their goals without any resources being provided. After noticing this gap, my question was:  **How might I design an accessible digital platform that empowers users looking to make an impact in ocean conservation efforts by connecting them to volunteer opportunities and organizations that align with their interests?**
 
-## Competitor Analysis
+## 🤔 Competitor Analysis
 
 ### Heurstic Evaluation
 
@@ -37,7 +37,7 @@ Below is a full video of the usability testing:
 Further information on the usability testing can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT02)
 
 
-## User Research
+## 🔬 User Research
 
 After identifying the design problems of competitor sites through the heuristic analysis and usability testing, it was important to gain an understanding of the potential users for my site. To achieve this, I conducted a contextual inquiry with someone as close as possible to my target user. I decided to interview someone who was deeply involved with volunteer work to better understand what methods they use to find volunteer opportunities and organizations to get involved with and what kind of information they value in this process. This information was key to keep in mind how I would create a design solution for my target users. Some of the key takeaways included:
 
@@ -48,7 +48,7 @@ After identifying the design problems of competitor sites through the heuristic 
 
 The full contextual inquiry can be found at [Assignment 3](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT03).
 
-## UX Storytelling
+## 📖 UX Storytelling
 
 ### User Personas
 
@@ -80,7 +80,7 @@ Persona 2: Kevin Sato is a 26 year olf software engineer based in San Francisco,
 
 Further information on the user personas and journey maps can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT04)
 
-## Wireframes & Low Fidelity Prototype 
+## 🖊️ Wireframes & Low Fidelity Prototype 
 
 With the developed personas created to guide my design process, I decided to develop three features that the user would have:
 
@@ -122,7 +122,7 @@ During the testing process, I was able to see how a user would interact with the
 
 Further information on the low fidelity prototype and user testing can be found  [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT05)
 
-## Interface Design System 
+## 🎨 Interface Design System 
 
 After working on the lofi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color constrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes.
 
@@ -136,23 +136,24 @@ After this, I did an impression test with a volunteer and recieved valuable feed
   <img src="https://user-images.githubusercontent.com/114601961/204698379-555718f8-c128-45a6-a129-2b4614b2d004.png" width="600px"/>
 </p>
 
-## High-Fidelity Prototype
+## 🖼️ High-Fidelity Prototype
 
-Following the user reserach and feedback on the low fidelity prototype and design system, I created a mobile version for the hi fidelity out of the full responsive system. To make the design more mobile-friendly, I also created a profile page as this would usually be found on the navigation bar, and removed the Resources feature as it was slightly too content heavy for a mobile version.
+Following the user reserach and feedback on the low fidelity prototype and design system, I created a mobile version for the hi fidelity out of the full responsive system. To make the design more mobile-friendly, I also created a profile page as this would usually be found on the navigation bar, and removed the Resources feature as it was slightly too content heavy for a mobile version. This process allowed me to conduct usability test a prototype sp that any improvements could be made before the final product.
 
-#### First iteration of the wireflow with the interface design implemented:
+#### First wireflow with the interface design implemented:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/114601961/204699044-f5a94a9e-99c6-4fc5-958f-938b7a0b853f.png" width="600px"/>
 </p>
 
-#### First iteration of the high-fidelity prototype:
+#### First high-fidelity prototype:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3DOeNVQ3Z16uGWtrQYYXGE%2FA7-prototype---1st%3Fnode-id%3D0%253A1%26t%3DHdYb2TUtiw3MZjuO-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3DOeNVQ3Z16uGWtrQYYXGE%2FA7-prototype---1st%3Fpage-id%3D0%253A1%26node-id%3D1%253A50%26viewport%3D489%252C218%252C0.54%26scaling%3Dmin-zoom%26starting-point-node-id%3D1%253A45" allowfullscreen></iframe>
 
-The high-fidelity prototype of the project can be found at [Assignment 7](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT06)
+Further information on the high-fidelity prototype can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT06)
 
-## Further Evaluations & Revisions
+## 🔁 Further Evaluations & Revisions
+
 
 
 ## Pitch Video
