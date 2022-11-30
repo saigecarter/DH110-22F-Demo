@@ -1,5 +1,3 @@
-theme:
-
 # Project: Tides of Change
 
 Saige Carter | DH110 | Fall 2022
@@ -172,6 +170,10 @@ Overall, they were able to navigate through the app with little difficulty and d
 | When asked if there was anything inconsistent, missing, or confusing, they said that on the page of a Volunteer Organizations page, it was not obvious to them that they were able to click on the organizations  | To make the name of the organization more obvious that it was clickable, I added an underline to the name, as one classmade had mentioned that is what they would usually expect.  |
 | They were confused about what the filter icon was  | To fix the confusion of the filter icon, I changed it from being a filter icon to a button with the word "Filters" to make it more obvious. |
 | One classmate mentioned that they expected the donation button to be more visible.  | To fix the visibility of the donation button, I enabled a "fixed" position of the button on the page so that it would remain visible on the page regardless of where the user scrolls on the page  |
+
+### Updated Wireflow 
+
+![image](https://user-images.githubusercontent.com/114601961/204718263-ec0e38db-fb4b-4f3a-9e92-98087c7569e2.png)
 
 
 ### Usability testing 
