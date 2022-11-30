@@ -83,6 +83,12 @@ Screenshot of second iteration of wireflow with changes made based on feedback f
   <img src="https://user-images.githubusercontent.com/114601961/203513745-687dae11-9dc5-4cfd-af0b-8a1d23d83315.png" width="400px"/>
 </p>
 
+**Solution: Enabling a fixed position on the page for the donation button**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204705693-a4c467e5-9186-4b60-93d9-603fe22bcef5.png" width="400px"/>
+</p>
+
 ### Wireflow & Prototype links
 
 - [Updated Figma Wireflow](https://www.figma.com/file/nTMgIypMpzI9N47JF1HRUp/A7-hifi-wireflows?node-id=0%3A1&t=73xJ2r1vXjeu1ASO-1)
