@@ -31,8 +31,6 @@ Following my heuristic analysis, I conducted a usability testing on the [Funding
 I found that during the test, the user was mostly able to complete the tasks they were given, but ran into some difficulty. Unexpectedly, the usability testing also exposed usability problems with the site that I missed during the heuristic analysis.
 
 Below is a full video of the usability testing:
-
-<iframe src="https://drive.google.com/file/d/1oDAk4f494GyffGg-OII9XXoDu3N5TJaj/preview" width="640" height="360" allow="autoplay"></iframe>
   
 Further information on the usability testing can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT02)
 
