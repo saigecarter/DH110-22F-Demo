@@ -154,7 +154,17 @@ Further information on the high-fidelity prototype can be found [here](https://g
 
 ## 🔁 Further Evaluations & Revisions
 
+### Impression Test 
 
+### Cognitive Walkthrough 
+
+| Problem  | Solution |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+### Usability testing 
 
 ## Pitch Video
 
