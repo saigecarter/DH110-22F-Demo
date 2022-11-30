@@ -214,9 +214,13 @@ During this section, the participants were able to fully complete the tasks with
 
 ## Pitch Video
 
-https://youtu.be/uITkBlX6DFA
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/uITkBlX6DFA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line →>
 
-[![Pitch Video](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "Tides of Change Pitch Video")
+Youtube link can be found [![here](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "Tides of Change Pitch Video")
 
 ## Conclusion
 
