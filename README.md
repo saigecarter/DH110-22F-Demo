@@ -124,18 +124,31 @@ Further information on the low fidelity prototype and user testing can be found 
 
 ## Interface Design System 
 
-After working on the lofi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color constrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes. 
+After working on the lofi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color constrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes.
 
 Below is an image showing the process of creating the design system:
 
 ![image](https://user-images.githubusercontent.com/114601961/204692501-395ecbe7-7942-4ab1-b220-5b0d684cd168.png)
 
-### Typographic Variations 
+After this, I did an impression test with a volunteer and recieved valuable feedback. She expressed that she would have liked to see at least 6 of the events on one page before having to go the next page. To fix this, I added one more row of the event cards on the page, then changed the layout from 6 rows to 8 rows.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204698379-555718f8-c128-45a6-a129-2b4614b2d004.png" width="600px"/>
+</p>
 
 ## High-Fidelity Prototype
 
-After creating the 
+Following the user reserach and feedback on the low fidelity prototype and design system, I created a mobile version for the hi fidelity out of the full responsive system. To make the design more mobile-friendly, I also created a profile page as this would usually be found on the navigation bar, and removed the Resources feature as it was slightly too content heavy for a mobile version.
+
+#### First iteration of the wireflow with the interface design implemented:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204699044-f5a94a9e-99c6-4fc5-958f-938b7a0b853f.png" width="600px"/>
+</p>
+
+#### First iteration of the high-fidelity prototype:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3DOeNVQ3Z16uGWtrQYYXGE%2FA7-prototype---1st%3Fnode-id%3D0%253A1%26t%3DHdYb2TUtiw3MZjuO-1" allowfullscreen></iframe>
 
 The high-fidelity prototype of the project can be found at [Assignment 7](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT06)
 
