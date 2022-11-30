@@ -56,7 +56,7 @@ After identifying the design problems of competitor sites through the heuristic 
 
 ### User Personas
 
-After conducting research to better understand my target users, I developed two personas and user journey maps to help me empathize with users and keep in mind _who_ I would be designing the platform for. Based on the previous research conducted, I created personas that would demonstrate the motivations, thoughts, goals, and pain points that a two types of potenital users of my product would have. 
+After conducting research to better understand my target users, I developed two personas and user journey maps to help me empathize with users and keep in mind _who_ I would be designing the platform for. Based on the previous research conducted, I created personas that would demonstrate the motivations, thoughts, goals, and pain points that two types of potential users of my product would have. 
 
 #### User Personas and Empathy Maps: 
 
