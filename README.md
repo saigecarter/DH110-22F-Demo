@@ -90,28 +90,43 @@ Creating the low-fidelity prototypes allowed me to first focus on the functional
 
 ### Initial Lo-Fi Wireflows
 
-**Task 1: Register for a Volunteer Event **
+**Task 1: Register for a Volunteer Event**
 
-Task 2: Find an organizaiton 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204690646-0ac56eba-e87e-49bc-a397-a4eab83b1eae.png" width="700px"/>
+</p>
 
-Task 3:
+**Task 2: Find an organization***
 
-Wireframes and UI design can be found at [Assignment 5](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT05)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204690646-0ac56eba-e87e-49bc-a397-a4eab83b1eae.png" width="700px"/>
+</p>
 
-### Low-Fidelity Prototype
+**Task 3: Find Resources***
 
-The low-fidelity prototype of the project can be found at [Assignment 6]((https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT06))
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204690692-2bf9e03d-a4a8-4515-bc15-0f9f2d35385d.png" width="700px"/>
+</p>
+
+#### User testing images:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204691506-30ad7d00-f81e-4f14-8506-5824c05b600c.jpg" width="250px"/>
+  <img src="https://user-images.githubusercontent.com/114601961/204691486-b49a90b9-8d02-48d2-b912-e6d711f31b66.jpg" width="250px"/>
+  <img src="https://user-images.githubusercontent.com/114601961/204691497-d5a2f636-13ae-460c-82e2-c6bc95e33098.jpg" width="250px"/>
+</p>
 
 ### Design System 
 
+After working on the lofi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color constrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes. 
 
+![image](https://user-images.githubusercontent.com/114601961/204692501-395ecbe7-7942-4ab1-b220-5b0d684cd168.png)
 
 ## High-Fidelity Prototype
 
 The high-fidelity prototype of the project can be found at [Assignment 7](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT06)
 
 ## Further Evaluations & Revisions
-
 
 
 ## Pitch Video
