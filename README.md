@@ -160,6 +160,7 @@ Further information on the high-fidelity prototype can be found [here](https://g
 
 | Problem  | Solution |
 | ------------- | ------------- |
+| Because the login/signup page was the first page the users would land on, they were not really sure what the app as about. One was correct in that it was about an enviromental/oceanic problem, but was not sure exactly what they could do with the app. Another thought that the app would be about improving water quality. They also mentioned it was a bit unexpected that the first page they land on after logging in was the Volunteer Opportunities page. | I added more to the onboarding process with two slides that explained what the app does, including the Volunteer Opportunities and Organizations features. In adding this, users would be able to understand what they are able to achieve with the app.  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
