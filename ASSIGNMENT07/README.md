@@ -55,6 +55,8 @@ To make the name of the organization more obvious that it was clickable, I added
 
 To fix the confusion of the filter icon, I changed it from being a filter icon to a button with the word "Filters" to make it more obvious. 
 
+To fix the visibility of the donation button, I enabled a "fixed" position of the button on the page so that it would remain visible on the page regardless of where the user scrolls on the page
+
 ## Second Iteration of the Interactive Prototype
 
 Screenshot of second iteration of wireflow with changes made based on feedback from the cognitive walkthrough:
