@@ -214,6 +214,9 @@ During this section, the participants were able to fully complete the tasks with
 
 ## Pitch Video
 
+https://youtu.be/uITkBlX6DFA
+
+[![Pitch Video](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "Tides of Change Pitch Video")
 
 ## Conclusion
 
