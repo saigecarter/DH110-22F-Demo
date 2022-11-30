@@ -23,7 +23,7 @@ The first step was to conduct a heuristic evaluation of the websites [Funding th
 **Marine Watch International:**
 > Funding the Ocean website has an abundance of information, which can be hard to organize but overall the navigation and organization of content was user friendly. However the site has issues in match to the real world, consistency and standards, user control and freedom, recognition rather than recall, and aesthetic and minimalist design. Many of these issues have to do with the Funding Map feature, as it is a unique feature that would require more work into making more intuitive. Visually, I think the website would benefit from greater contrast between the banners and Title text, and the colors of the headers to improve the visual heirarchy.
 
-Read more on the heurstic analysis [here]((https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT01))
+Further informatin on the heurstic analysis can be found [here]((https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT01))
 
 ### Usability Testing
 
@@ -76,7 +76,7 @@ Persona 2: Kevin Sato is a 26 year olf software engineer based in San Francisco,
   <img src="https://user-images.githubusercontent.com/114601961/198016432-733dc05a-29b2-4db4-a72a-924e5da4d0d4.png" alt="Kevin Journey" width="500px"/>
 </p>
 
-More on the user personas and journey maps can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT04)
+Further information on the user personas and journey maps can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT04)
 
 ## Wireframes & Low Fidelity Prototype 
 
@@ -116,13 +116,24 @@ Creating the low-fidelity prototypes allowed me to first focus on the functional
   <img src="https://user-images.githubusercontent.com/114601961/204691497-d5a2f636-13ae-460c-82e2-c6bc95e33098.jpg" width="250px"/>
 </p>
 
-### Design System 
+During the testing process, I was able to see how a user would interact with the site based on the elements that were on the lo-fi prototype. I was able to see where the user might get confused, indicating that I would need to restructure the flow or add something to the page that may have been missing. They mostly able to successfully interact with the prototype, but some highlights from the testing illuminated some aspects that could be improved. This included making certain elements more visible as well as making certain feedback for the user more clear and intuitive. 
+
+Further information on the low fidelity prototype and user testing can be found  [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT05)
+
+## Interface Design System 
 
 After working on the lofi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color constrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes. 
 
+Below is an image showing the process of creating the design system:
+
 ![image](https://user-images.githubusercontent.com/114601961/204692501-395ecbe7-7942-4ab1-b220-5b0d684cd168.png)
 
+### Typographic Variations 
+
+
 ## High-Fidelity Prototype
+
+After creating the 
 
 The high-fidelity prototype of the project can be found at [Assignment 7](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT06)
 
