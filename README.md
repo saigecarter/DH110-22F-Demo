@@ -124,7 +124,7 @@ Further information on the low fidelity prototype and user testing can be found 
 
 ## 🎨 Interface Design System 
 
-After working on the lofi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color constrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes.
+After working on the lofi wireflow and testing the prototype with a volunteer, I created a design system that I would base my high-fidelity prototype on. I tried out multiple variations for the typography, shape, and checked the color constrast for accessibility. Finally, I decided on a layout and the final design system for the hi-fi wireframes. During the process, I learned a lot about how to actually palce the features that I had in mind onto the page and looking at other websites helped me understand how to implement them in an intuitive way. 
 
 Below is an image showing the process of creating the design system:
 
@@ -176,6 +176,31 @@ Overall, they were able to navigate through the app with little difficulty and d
 
 ### Usability testing 
 
+After implementing the changes to my high-fidelity prototype based on the feedback from the cognitive feedback, I conducted two usability tests on prototype. 
+
+First, I asked them to rate how easy or difficult to use the app looks, how trustworthy the app looks, and how they felt about the overall design of the app. Both participants rated their perception of the app as easy to use, trustworthy, with a pleasant design. 
+
+Next, I asked them to look at the three pages--Volunteer Opportunities, Organizations, and the Profile Page--without navigating anywhere else and explain what they expected to do on the page. Both participants expectations of what they would do on the page aligned with what I had intended with the design. 
+
+Next, I asked them to complete three tasks:
+
+1: Find a volunteer opportunity in your area (Los Angeles) and register for it.
+
+2: Find an organization's page with their information and make a donation.
+
+3: Access your saved/favorited volunteer opportunities and organizations and navigate to their pages.
+
+During this section, the participants were able to fully complete the tasks without any problems. However, there were a few hiccups that I noticed during the testing that could be solved with further improvements to the app:
+
+- The first participant struggled a bit with going to the next page on the onboarding process, but I believe that because they were using a mobile prototype, the were not sure if they were able to drag the screen as you usually would on mobile. In the second usability test, I let the participant know that they could interact with the prototype as they would on a mobile screen, and they did not run into the same problem. However, to make the design more accessible in edge cases, I could still add a button or side arrows to make it easier for the user. 
+
+- At one point, I noticed that the first participant tried to click on the entire card for the Organizations rather than the "Learn More" button at first, so I asked them about it. They said that they felt that they would usually go for the "Learn more" button, but since apps have more recently been making the entire card clickable, that was their initial instinct. To fix this, I could make the entire card clickable rather than only the learn more, or remove the learn more entirely. 
+
+| Problem  | Potential Solution |
+| ------------- | ------------- |
+| The first participant struggled a bit with going to the next page on the onboarding process, but I believe that because they were using a mobile prototype, the were not sure if they were able to drag the screen as you usually would on mobile. In the second usability test, I let the participant know that they could interact with the prototype as they would on a mobile screen, and they did not run into the same problem.  | To make the design more accessible in edge cases like this, I could still add a button or side arrows to make it easier for the user.  |
+| At one point, I noticed that the first participant tried to click on the entire card for the Organizations rather than the "Learn More" button at first, so I asked them about it. They said that they felt that they would usually go for the "Learn more" button, but since apps have more recently been making the entire card clickable, that was their initial instinct.  | To fix this, I could make the entire card clickable rather than only the learn more, or remove the learn more entirely.  |
+| When the second participant was asked to list the "Cause areas" of an organization, they did not list the cause areas with the pill design, but listed information that they found from the mission statement.   | This could be easily solved by making the pills more visible to the user, either by making them larger or choosing a different way to display the information.  |
 
 
 ## Pitch Video
