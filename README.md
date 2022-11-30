@@ -5,7 +5,7 @@ Saige Carter | DH110 | Fall 2022
 ## 🌊 Introduction
 
 The goal of this project is to help people get involved in ocean conservation by connecting them to volunteer opportunities and organizations. The foundation for the project was based on choosing one of the topics of the UN's sustainable development goals that interested me. I chose the UN Global Goal #14: Life Below Water. 
-I chose this topic because, like many, I am very aware of the endangerment of the ocean caused by problems such as plastic pollution, climate change, and overfishing. However, many people can relate in sharing the concern for our ocean, but feel distanced from the problem or disconnected from the ability to help. Therefore, I wanted to focus my project on empowering people to get involved in ocean conservation. 
+I chose this topic because, like many, I am very aware of the endangerment of the ocean caused by problems such as plastic pollution, climate change, and overfishing. Many people can relate in sharing the concern for our ocean, but feel distanced from the problem or disconnected from the ability to help. Therefore, I wanted to focus my project on empowering people to get involved in ocean conservation. 
 
 ## 🎗️Design Statement
 
