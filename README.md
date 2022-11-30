@@ -47,14 +47,15 @@ The full contextual inquiry can be found at [Assignment 3](https://github.com/sa
 ## UX Storytelling
 
 
-The user personas and journey maps can be found at [Assignment 4](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT04)
-
 ### User Personas
 
-
-
+After conducting research to better understand my target users, I developed two personas and user journey maps to help me empathize with users and keep in mind _who_ I would be designing the platform for. Based on the previous research conducted, I created personas that would demonstrate the motivations, thoughts, goals, and pain points that a two types of potenital users of my product would have. 
 
 #### User Personas and Empathy Maps 
+
+Persona 1: Alice Smith is a Generation Z college student in Los Angeles, who has been exposed media about the endangerment of the oceans throughout her life and has a deep concern for the issue. She wants to take the next step further than individual actions and get involved with a volunteer organization in her community. 
+
+Persona 2: Kevin Sato is a 26 year olf software engineer based in San Francisco, who was involved in environmentalism throughut his youth, but feels like he has been missing that part of his life in recent years focusing on his career. He is too busy to commit to hands-on volunteer work, but wants to find an organization whose mission he connects with to make donations to. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/114601961/198000361-3b382043-3e8d-4959-b1d5-6d2258bd96c7.png" alt="Alice User Persona" width="500px"/>
@@ -74,9 +75,21 @@ The user personas and journey maps can be found at [Assignment 4](https://github
   <img src="https://user-images.githubusercontent.com/114601961/198016432-733dc05a-29b2-4db4-a72a-924e5da4d0d4.png" alt="Kevin Journey" width="500px"/>
 </p>
 
+More on the user personas and journey maps can be found [here](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT04)
+
 ## Wireframes & User Interface Design
 
-Wireframes and UI design canbe found at [Assignment 5](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT05)
+With the developed personas created to guide my design process, I decided to develop three features that the user would have:
+
+1. Volunteer opportunities - provides a list of volunteer opportunities based on various details including location and cause area, and allows user to register for events.
+2. Organizations - provides a list of organizations based on details including location and cause area, and allows user to view more information about the organization.
+3. Resources page - page that provides the user with information including pressing ocean issues, the SDG targets, and ways to help.
+
+Creating the low-fidelity prototypes allowed me to first focus on the functionality of the site and test the usability of these features early in development. By doing this, I was able to determine what fundamental changes or improvements to the site I would make before moving into the high-fidelity prorotype where I would focus more on the overall design of the product. 
+
+
+
+Wireframes and UI design can be found at [Assignment 5](https://github.com/saigecarter/DH110-22F-SC/tree/main/ASSIGNMENT05)
 
 ## Low-Fidelity Prototype
 
