@@ -171,10 +171,15 @@ Overall, they were able to navigate through the app with little difficulty and d
 | They were confused about what the filter icon was  | To fix the confusion of the filter icon, I changed it from being a filter icon to a button with the word "Filters" to make it more obvious. |
 | One classmate mentioned that they expected the donation button to be more visible.  | To fix the visibility of the donation button, I enabled a "fixed" position of the button on the page so that it would remain visible on the page regardless of where the user scrolls on the page  |
 
-### Updated Wireflow 
+### 2nd Iteration of Wireflow:
 
-![image](https://user-images.githubusercontent.com/114601961/204718263-ec0e38db-fb4b-4f3a-9e92-98087c7569e2.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114601961/204718421-bbfc20a7-7386-4427-b6a6-dea0af7e4f96.png" width="600px"/>
+</p>
 
+### 2nd Iteration of Hifi Prototype:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXBPIU4JBc1oHRONafFnsuv%2FA7-hifi-prototype---2nd-iteration%3Fpage-id%3D0%253A1%26node-id%3D38%253A334%26viewport%3D-1955%252C-3498%252C0.64%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A17" allowfullscreen></iframe>
 
 ### Usability testing 
 
