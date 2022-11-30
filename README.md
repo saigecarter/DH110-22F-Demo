@@ -216,6 +216,10 @@ During this section, the participants were able to fully complete the tasks with
 
 Video link can be found [![here](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "Tides of Change Pitch Video")
 
+[![THE-ALT-TEXT](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "ALT-TEXT"
+
+[![here](https://youtu.be/uITkBlX6DFA)](https://www.youtube.com/watch?v=VIDEO-ID "Tides of change pitch video")
+
 ## Conclusion
 
 Overall, I feel that I have learned a lot going through the entire process of building this product and that I was able to successfully create a platform that helps the target users achieve their goals. Although I had created designs in the past, this was the first time that I had done such in-depth research throughout the entire process. The most enlightening task that I did was the contextual inquiry. At first, I didn't completely understand learning so much about the context surrounding a potential user. However, after doing so, I realized that there was so much valuable information that one could learn about a potential user that you might not think you would need beforehand. I made sure to implement certain aspects to the app based on findings from the contextual inquiry, and the personas that I derived from it were instrumental in guiding the design process from the lo-fi to hi-fi wireframes. It was also incredibly helpful to learn from the competitor analysis what specific aspects from their products worked and didn't work for users.
